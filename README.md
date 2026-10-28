@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Lyra: AI-native builder of generative and agentic systems. Intern at the Foundation Model Center, Kling Team, Kuaishou Technology; M.Eng. student at Southeast University (SEU), Suzhou" src="assets/header-light.svg" width="100%">
+  <img alt="Lyra: AI-native builder of generative and agentic systems. Multimodal LLM intern at the Foundation Model Center, Kling Team, Kuaishou Technology; M.Eng. student at Southeast University (SEU), Suzhou" src="assets/header-light.svg" width="100%">
 </picture>
 
 <picture>
