@@ -49,11 +49,11 @@ A script on my dev machine reads the Claude Code session logs, counts each API r
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-10-28 13:50, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-10-28 14:16, UTC+8)</summary>
 
 | Date | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
-| 2026-10-28 | 1.23B | 4.30M | 1.20B | 3,915 | 21 |
+| 2026-10-28 | 1.35B | 5.25M | 1.31B | 4,537 | 21 |
 | 2026-10-27 | 5.44B | 18.2M | 5.34B | 15,120 | 29 |
 | 2026-10-26 | 4.05B | 15.4M | 3.98B | 12,718 | 25 |
 | 2026-10-25 | 2.88B | 12.2M | 2.79B | 13,795 | 20 |
