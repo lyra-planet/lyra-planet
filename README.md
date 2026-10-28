@@ -5,7 +5,7 @@
 
 <p align="center">Image &amp; video generation · Multimodal models · Agentic LLM workflows</p>
 
-I'm a master's student at Southeast University (SEU) in Nanjing and an intern in the foundation model group of the Kling Team at Kuaishou Technology. I work on image and video generation, multimodal models, and the agent workflows that sit around them: harnesses that let a model carry a long task on its own, evaluation loops that tell you whether a change actually helped, and pipelines that chain generation steps together.
+I'm a master's student at Southeast University (SEU) in Nanjing and an intern at the Foundation Model Center (Foundation Model & Agent Algorithms Department), Kling Team, Kuaishou Technology. I work on image and video generation, multimodal models, and the agent workflows that sit around them: harnesses that let a model carry a long task on its own, evaluation loops that tell you whether a change actually helped, and pipelines that chain generation steps together.
 
 Most of my code is written with coding agents now. The card further down counts how many tokens they used, straight from my session logs.
 
