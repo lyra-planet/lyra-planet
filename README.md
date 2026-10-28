@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Lyra: AI-native builder of generative and agentic systems. Intern at the Foundation Model Center, Kling Team, Kuaishou Technology; M.S. student at Southeast University (SEU), Nanjing" src="assets/header-light.svg" width="100%">
+  <img alt="Lyra: AI-native builder of generative and agentic systems. Intern at the Foundation Model Center, Kling Team, Kuaishou Technology; M.Eng. student at Southeast University (SEU), Suzhou" src="assets/header-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -14,12 +14,16 @@
 </picture>
 
 <p>
-<a href="https://github.com/lyra-planet/LyHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-lyharness-dark.svg"><img alt="LyHarness: local, interactive coding-agent harness" src="assets/proj-lyharness-light.svg" width="49%"></picture></a>
-<a href="https://github.com/lyra-planet/BlendEmo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-blendemo-dark.svg"><img alt="BlendEmo: code for our blended emotion recognition paper" src="assets/proj-blendemo-light.svg" width="49%"></picture></a>
+<a href="https://github.com/lyra-planet/LyHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-lyharness-dark.svg"><img alt="LyHarness: Modular coding-agent runtime: tools, worktree isolation, skills, MCP, persistent tasks and memory, resumable workflows." src="assets/proj-lyharness-light.svg" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-patchloom-dark.svg"><img alt="Patchloom: Multi-agent PR review and auto-fix with a self-evolving orchestrator; 92.5% review accuracy on 100 controlled PR diffs." src="assets/proj-patchloom-light.svg" width="49%"></picture>
 </p>
 <p>
-<a href="https://github.com/lyra-planet/GAL-Dreamer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-gal-dreamer-dark.svg"><img alt="GAL-Dreamer: multi-agent galgame generation" src="assets/proj-gal-dreamer-light.svg" width="49%"></picture></a>
-<a href="https://github.com/lyra-planet/Pipline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-pipline-dark.svg"><img alt="Pipline: multi-stage video editing pipeline with MiniMax-H3 and ComfyUI" src="assets/proj-pipline-light.svg" width="49%"></picture></a>
+<a href="https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1281"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-tencentdb-agent-memory-dark.svg"><img alt="TencentDB-Agent-Memory: Dynamic skill-queue injection for an agent memory proxy: three BM25-based strategies, 91% task success in a 100-task eval." src="assets/proj-tencentdb-agent-memory-light.svg" width="49%"></picture></a>
+<a href="https://github.com/lyra-planet/BlendEmo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-blendemo-dark.svg"><img alt="BlendEmo: Code for our FG 2026 paper: blended emotion recognition via structured set prediction and pair-conditioned ratios." src="assets/proj-blendemo-light.svg" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/lyra-planet/GAL-Dreamer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-gal-dreamer-dark.svg"><img alt="GAL-Dreamer: Multi-agent system that turns one conversation into a complete galgame: world-building, characters, story outline and consistency checks." src="assets/proj-gal-dreamer-light.svg" width="49%"></picture></a>
+<a href="https://github.com/lyra-planet/Pipline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-pipline-dark.svg"><img alt="Pipline: Multi-stage video editing with MiniMax-H3 through a hosted API or a local ComfyUI workflow, with retries and failure repair." src="assets/proj-pipline-light.svg" width="49%"></picture></a>
 </p>
 
 <picture>
@@ -34,11 +38,11 @@
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-10-28 14:16, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-10-28 15:44, UTC+8)</summary>
 
 | Date | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
-| 2026-10-28 | 1.35B | 5.25M | 1.31B | 4,537 | 21 |
+| 2026-10-28 | 1.61B | 6.16M | 1.57B | 5,196 | 24 |
 | 2026-10-27 | 5.44B | 18.2M | 5.34B | 15,120 | 29 |
 | 2026-10-26 | 4.05B | 15.4M | 3.98B | 12,718 | 25 |
 | 2026-10-25 | 2.88B | 12.2M | 2.79B | 13,795 | 20 |

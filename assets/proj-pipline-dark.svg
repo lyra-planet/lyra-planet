@@ -99,10 +99,10 @@
 <text x="20" y="138" font-size="13" fill="#c2c0b6">and failure repair.</text>
 <circle cx="25" cy="156" r="5" fill="#cf6844"/>
 <text x="35" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#c2c0b6">Python</text>
-<rect x="92" y="146" width="75.4" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
-<text x="129.7" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">video-gen</text>
-<rect x="175.4" y="146" width="62.2" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
-<text x="206.5" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">comfyui</text>
-<rect x="245.6" y="146" width="68.8" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
-<text x="280.0" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">pipeline</text>
+<rect x="97.6" y="146" width="75.4" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="135.3" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">video-gen</text>
+<rect x="181.0" y="146" width="62.2" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="212.1" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">comfyui</text>
+<rect x="251.2" y="146" width="68.8" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="285.6" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">pipeline</text>
 </svg>
