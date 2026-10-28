@@ -1,0 +1,112 @@
+{
+ "generated_at": "2026-10-28T13:49+08:00",
+ "tz": "Asia/Shanghai",
+ "totals": {
+  "input": 147181,
+  "output": 71267037,
+  "cache_write": 333066349,
+  "cache_read": 17637469363,
+  "total": 18041949930,
+  "requests": 64042,
+  "sessions": 172
+ },
+ "models": {
+  "claude-opus-5-5": 11421938400,
+  "claude-opus-5": 6438902963,
+  "claude-fable-5-1": 172599859,
+  "claude-haiku-5-5": 5413283,
+  "claude-sonnet-5-5": 3095425
+ },
+ "days": [
+  {
+   "date": "2026-10-20",
+   "input": 1812,
+   "output": 436591,
+   "cache_write": 3647650,
+   "cache_read": 134920765,
+   "requests": 906,
+   "sessions": 8,
+   "total": 139006818
+  },
+  {
+   "date": "2026-10-21",
+   "input": 15889,
+   "output": 1607999,
+   "cache_write": 7642295,
+   "cache_read": 307948930,
+   "requests": 1224,
+   "sessions": 25,
+   "total": 317215113
+  },
+  {
+   "date": "2026-10-22",
+   "input": 6534,
+   "output": 3149973,
+   "cache_write": 13560006,
+   "cache_read": 944711230,
+   "requests": 2801,
+   "sessions": 10,
+   "total": 961427743
+  },
+  {
+   "date": "2026-10-23",
+   "input": 5548,
+   "output": 3869356,
+   "cache_write": 11457549,
+   "cache_read": 983385354,
+   "requests": 2722,
+   "sessions": 15,
+   "total": 998717807
+  },
+  {
+   "date": "2026-10-24",
+   "input": 21758,
+   "output": 12152266,
+   "cache_write": 55909350,
+   "cache_read": 1956857663,
+   "requests": 10847,
+   "sessions": 19,
+   "total": 2024941037
+  },
+  {
+   "date": "2026-10-25",
+   "input": 27726,
+   "output": 12247767,
+   "cache_write": 73987791,
+   "cache_read": 2791507166,
+   "requests": 13795,
+   "sessions": 20,
+   "total": 2877770450
+  },
+  {
+   "date": "2026-10-26",
+   "input": 25548,
+   "output": 15354370,
+   "cache_write": 61242738,
+   "cache_read": 3977646857,
+   "requests": 12718,
+   "sessions": 25,
+   "total": 4054269513
+  },
+  {
+   "date": "2026-10-27",
+   "input": 31892,
+   "output": 18173276,
+   "cache_write": 76740210,
+   "cache_read": 5341787809,
+   "requests": 15120,
+   "sessions": 29,
+   "total": 5436733187
+  },
+  {
+   "date": "2026-10-28",
+   "input": 10474,
+   "output": 4275439,
+   "cache_write": 28878760,
+   "cache_read": 1198703589,
+   "requests": 3909,
+   "sessions": 21,
+   "total": 1231868262
+  }
+ ]
+}
