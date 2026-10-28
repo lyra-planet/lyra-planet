@@ -56,4 +56,6 @@ Raw data: [`data/claude-code-usage.json`](data/claude-code-usage.json)
 </details>
 <!-- usage:end -->
 
+<p><a href="https://lyra-planet.github.io"><b>lyra-planet.github.io</b></a> · CV, writing and a live version of the chart above</p>
+
 <sub>Stats come from my local Claude Code session logs: each API response counted once, daily totals only, pushed by a cron job twice a day. Earlier work: <a href="https://github.com/lyra-planet/Twin-Automata">Twin-Automata</a> · <a href="https://github.com/lyra-planet/winter_sweet">winter_sweet</a>.</sub>
