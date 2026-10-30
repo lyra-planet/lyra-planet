@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Claude Code token usage</title>
-<desc id="d">23.6B tokens since 2026-10-20; daily table and JSON are in the repository.</desc>
+<desc id="d">26.1B tokens since 2026-10-20; daily table and JSON are in the repository.</desc>
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#faf9f5" stroke="#e3dfd3"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#141413" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Claude Code usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Oct 30, 12:50 (UTC+8)</text>
-<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">23.6B</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Oct 30, 20:42 (UTC+8)</text>
+<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">26.1B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="300.0" y1="78" x2="300.0" y2="136" stroke="#ebe8df"/>
-<text x="314.0" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">90.9M</text>
+<text x="314.0" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">100M</text>
 <text x="314.0" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:160ms">output tokens</text>
 <line x1="410.4" y1="78" x2="410.4" y2="136" stroke="#ebe8df"/>
-<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">80.0k</text>
+<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">87.2k</text>
 <text x="424.4" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="520.8" y1="78" x2="520.8" y2="136" stroke="#ebe8df"/>
-<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">231</text>
+<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">248</text>
 <text x="534.8" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:300ms">sessions</text>
 <line x1="631.2" y1="78" x2="631.2" y2="136" stroke="#ebe8df"/>
 <text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">11</text>
@@ -42,7 +42,7 @@
 <path class="g" style="animation-delay:922ms" d="M468.2,370.0 V220.0 Q468.2,216.0 472.2,216.0 H477.4 Q481.4,216.0 481.4,220.0 V370.0 Z"/>
 <path class="g" style="animation-delay:944ms" d="M483.4,370.0 V294.1 Q483.4,290.1 487.4,290.1 H492.6 Q496.6,290.1 496.6,294.1 V370.0 Z"/>
 <path class="g" style="animation-delay:966ms" d="M498.6,370.0 V266.4 Q498.6,262.4 502.6,262.4 H507.8 Q511.8,262.4 511.8,266.4 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V368.1 Q513.8,364.1 517.8,364.1 H523.0 Q527.0,364.1 527.0,368.1 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V299.6 Q513.8,295.6 517.8,295.6 H523.0 Q527.0,295.6 527.0,299.6 V370.0 Z"/>
 </g>
 <text x="474.8" y="210.0" font-size="11" font-weight="600" fill="#141413" text-anchor="middle" class="a" style="animation-delay:1100ms">5.44B</text>
 <text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Oct 01</text>
@@ -219,16 +219,16 @@
 <rect class="h" style="animation-delay:906ms" x="836" y="272" width="10" height="10" rx="2" fill="#efede5"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="200" width="10" height="10" rx="2" fill="#efede5"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="212" width="10" height="10" rx="2" fill="#f3d9cc"/>
-<rect class="h" style="animation-delay:928ms" x="848" y="224" width="10" height="10" rx="2" fill="#eab79f"/>
+<rect class="h" style="animation-delay:928ms" x="848" y="224" width="10" height="10" rx="2" fill="#f3d9cc"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="236" width="10" height="10" rx="2" fill="#eab79f"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="248" width="10" height="10" rx="2" fill="#eab79f"/>
-<rect class="h" style="animation-delay:928ms" x="848" y="260" width="10" height="10" rx="2" fill="#df9174"/>
+<rect class="h" style="animation-delay:928ms" x="848" y="260" width="10" height="10" rx="2" fill="#eab79f"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="272" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="200" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="212" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="224" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="236" width="10" height="10" rx="2" fill="#c96a47"/>
-<rect class="h" style="animation-delay:950ms" x="860" y="248" width="10" height="10" rx="2" fill="#f3d9cc"/>
+<rect class="h" style="animation-delay:950ms" x="860" y="248" width="10" height="10" rx="2" fill="#df9174"/>
 <text x="554.0" y="209.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Mon</text>
 <text x="554.0" y="233.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Wed</text>
 <text x="554.0" y="257.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Fri</text>
@@ -247,13 +247,13 @@
 <rect x="650" y="314" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <text x="666.0" y="323.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="start">More</text>
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
-<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="497.9" height="14" rx="4" fill="#d97757"/>
-<rect class="m" style="animation-delay:1020ms" x="527.9" y="440" width="312.0" height="14" rx="4" fill="#2a78d6"/>
-<rect class="m" style="animation-delay:1140ms" x="841.9" y="440" width="8.1" height="14" rx="4" fill="#b8b5ab"/>
+<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="487.1" height="14" rx="4" fill="#d97757"/>
+<rect class="m" style="animation-delay:1020ms" x="517.1" y="440" width="323.1" height="14" rx="4" fill="#2a78d6"/>
+<rect class="m" style="animation-delay:1140ms" x="842.2" y="440" width="7.8" height="14" rx="4" fill="#b8b5ab"/>
 <rect x="28" y="466" width="10" height="10" rx="2" fill="#d97757"/>
-<text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5.5  60.7%</text>
+<text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5.5  59.4%</text>
 <rect x="176.0" y="466" width="10" height="10" rx="2" fill="#2a78d6"/>
-<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5  38.1%</text>
+<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5  39.4%</text>
 <rect x="309.6" y="466" width="10" height="10" rx="2" fill="#b8b5ab"/>
 <text x="325.6" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Other (Fable 5.1, Haiku 5.5, Sonnet 5.5)  1.2%</text>
 <text x="28.0" y="502.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start">Counted from local Claude Code transcripts · deduplicated per API response · daily totals only, no content</text>
