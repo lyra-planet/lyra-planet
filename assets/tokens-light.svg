@@ -4,7 +4,7 @@
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#faf9f5" stroke="#e3dfd3"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#141413" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Claude Code usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Oct 31, 09:50 (UTC+8)</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Oct 31, 10:50 (UTC+8)</text>
 <text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">27.0B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="300.0" y1="78" x2="300.0" y2="136" stroke="#ebe8df"/>
@@ -249,8 +249,8 @@
 <rect x="650" y="314" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <text x="666.0" y="323.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="start">More</text>
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
-<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="487.9" height="14" rx="4" fill="#d97757"/>
-<rect class="m" style="animation-delay:1020ms" x="517.9" y="440" width="322.5" height="14" rx="4" fill="#2a78d6"/>
+<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="488.0" height="14" rx="4" fill="#d97757"/>
+<rect class="m" style="animation-delay:1020ms" x="518.0" y="440" width="322.5" height="14" rx="4" fill="#2a78d6"/>
 <rect class="m" style="animation-delay:1140ms" x="842.5" y="440" width="7.5" height="14" rx="4" fill="#b8b5ab"/>
 <rect x="28" y="466" width="10" height="10" rx="2" fill="#d97757"/>
 <text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5.5  59.5%</text>
