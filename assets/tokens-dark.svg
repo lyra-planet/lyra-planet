@@ -4,7 +4,7 @@
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#262624" stroke="#3d3d3a"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#faf9f5" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Claude Code usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 01, 02:50 (UTC+8)</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 01, 03:50 (UTC+8)</text>
 <text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">28.9B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="300.0" y1="78" x2="300.0" y2="136" stroke="#34332f"/>
@@ -14,7 +14,7 @@
 <text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">93.4k</text>
 <text x="424.4" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="520.8" y1="78" x2="520.8" y2="136" stroke="#34332f"/>
-<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">287</text>
+<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">288</text>
 <text x="534.8" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:300ms">sessions</text>
 <line x1="631.2" y1="78" x2="631.2" y2="136" stroke="#34332f"/>
 <text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">13</text>
@@ -44,7 +44,7 @@
 <path class="g" style="animation-delay:922ms" d="M468.2,370.0 V266.4 Q468.2,262.4 472.2,262.4 H477.4 Q481.4,262.4 481.4,266.4 V370.0 Z"/>
 <path class="g" style="animation-delay:944ms" d="M483.4,370.0 V277.9 Q483.4,273.9 487.4,273.9 H492.6 Q496.6,273.9 496.6,277.9 V370.0 Z"/>
 <path class="g" style="animation-delay:966ms" d="M498.6,370.0 V317.1 Q498.6,313.1 502.6,313.1 H507.8 Q511.8,313.1 511.8,317.1 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V370.0 Q513.8,367.9 515.9,367.9 H524.9 Q527.0,367.9 527.0,370.0 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V370.0 Q513.8,367.2 516.6,367.2 H524.2 Q527.0,367.2 527.0,370.0 V370.0 Z"/>
 </g>
 <text x="444.4" y="210.0" font-size="11" font-weight="600" fill="#faf9f5" text-anchor="middle" class="a" style="animation-delay:1100ms">5.44B</text>
 <text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Oct 03</text>
