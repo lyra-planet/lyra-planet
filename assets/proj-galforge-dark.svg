@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="892" height="178" viewBox="0 0 892 178" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="GalForge: An Agent Skill that turns one sentence into a playable pixel-art visual novel. Sprites, scenes and music are all written as code, and every game must pass ten bundled checks, including an exhaustive ending solver.">
+<style>.ic{animation:pop .5s cubic-bezier(.2,.7,.2,1) both}@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:none}}.ic{transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion:reduce){.ic{animation:none}}</style>
+<rect x="0.5" y="0.5" width="891" height="177" rx="12" fill="#262624" stroke="#3d3d3a"/>
+<rect x="20" y="20" width="56" height="56" rx="10" fill="#1f1e1d"/>
+<rect class="ic" style="animation-delay:36ms" x="33" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:54ms" x="38" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:72ms" x="43" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:90ms" x="48" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:108ms" x="53" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:126ms" x="58" y="23" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:36ms" x="28" y="28" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:54ms" x="33" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:72ms" x="38" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:90ms" x="43" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:108ms" x="48" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:126ms" x="53" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:144ms" x="58" y="28" width="4.4" height="4.4" rx="0.8" fill="#3987e5"/>
+<rect class="ic" style="animation-delay:162ms" x="63" y="28" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:54ms" x="28" y="33" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:72ms" x="33" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:90ms" x="38" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:108ms" x="43" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:126ms" x="48" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:144ms" x="53" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:162ms" x="58" y="33" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:180ms" x="63" y="33" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:72ms" x="28" y="38" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:90ms" x="33" y="38" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:108ms" x="38" y="38" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:126ms" x="43" y="38" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:144ms" x="48" y="38" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:162ms" x="53" y="38" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:180ms" x="58" y="38" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:198ms" x="63" y="38" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:90ms" x="28" y="43" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:108ms" x="33" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:126ms" x="38" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:144ms" x="43" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:162ms" x="48" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:180ms" x="53" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:198ms" x="58" y="43" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:216ms" x="63" y="43" width="4.4" height="4.4" rx="0.8" fill="#1c5cab"/>
+<rect class="ic" style="animation-delay:126ms" x="33" y="48" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:144ms" x="38" y="48" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:162ms" x="43" y="48" width="4.4" height="4.4" rx="0.8" fill="#cf6844"/>
+<rect class="ic" style="animation-delay:180ms" x="48" y="48" width="4.4" height="4.4" rx="0.8" fill="#cf6844"/>
+<rect class="ic" style="animation-delay:198ms" x="53" y="48" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:216ms" x="58" y="48" width="4.4" height="4.4" rx="0.8" fill="#faf9f5"/>
+<rect class="ic" style="animation-delay:108ms" x="23" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:126ms" x="28" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:144ms" x="33" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:162ms" x="38" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:180ms" x="43" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:198ms" x="48" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:216ms" x="53" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:234ms" x="58" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:252ms" x="63" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:270ms" x="68" y="53" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:126ms" x="23" y="58" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:144ms" x="28" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:162ms" x="33" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:180ms" x="38" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:198ms" x="43" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:216ms" x="48" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:234ms" x="53" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:252ms" x="58" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:270ms" x="63" y="58" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:288ms" x="68" y="58" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:144ms" x="23" y="63" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:162ms" x="28" y="63" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:180ms" x="33" y="63" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:198ms" x="38" y="63" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:216ms" x="43" y="63" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:234ms" x="48" y="63" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:252ms" x="53" y="63" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:270ms" x="58" y="63" width="4.4" height="4.4" rx="0.8" fill="#2b2a28"/>
+<rect class="ic" style="animation-delay:288ms" x="63" y="63" width="4.4" height="4.4" rx="0.8" fill="#ebdbbc"/>
+<rect class="ic" style="animation-delay:306ms" x="68" y="63" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:162ms" x="23" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:180ms" x="28" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:198ms" x="33" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:216ms" x="38" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:234ms" x="43" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:252ms" x="48" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:270ms" x="53" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:288ms" x="58" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:306ms" x="63" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<rect class="ic" style="animation-delay:324ms" x="68" y="68" width="4.4" height="4.4" rx="0.8" fill="#9c4a2c"/>
+<text x="92" y="46" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" font-size="23" font-weight="600" fill="#faf9f5">GalForge</text>
+<text x="92" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#9c9a92">lyra-planet/galforge</text>
+<rect x="828" y="20" width="44" height="20" rx="10" fill="#cf6844"/>
+<text x="850" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#faf9f5" text-anchor="middle">new</text>
+<text x="872" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#e8956f" text-anchor="end">play in the browser: lyra-planet.github.io/galforge</text>
+<text x="20" y="102" font-size="13" fill="#c2c0b6">An Agent Skill that turns one sentence into a playable pixel-art visual novel. Sprites, scenes and music are all</text>
+<text x="20" y="120" font-size="13" fill="#c2c0b6">written as code, and every game must pass ten bundled checks, including an exhaustive ending solver.</text>
+<circle cx="25" cy="156" r="5" fill="#cf6844"/>
+<text x="35" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#c2c0b6">JavaScript</text>
+<rect x="124.0" y="146" width="88.6" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="168.3" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">agent-skill</text>
+<rect x="220.6" y="146" width="95.2" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="268.2" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">visual-novel</text>
+<rect x="323.79999999999995" y="146" width="75.4" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="361.5" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">pixel-art</text>
+<rect x="407.19999999999993" y="146" width="68.8" height="20" rx="10" fill="none" stroke="#3d3d3a"/>
+<text x="441.6" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#e8956f" text-anchor="middle">webaudio</text>
+</svg>

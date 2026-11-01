@@ -14,6 +14,9 @@
 </picture>
 
 <p>
+<a href="https://github.com/lyra-planet/galforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-galforge-dark.svg"><img alt="GalForge: An Agent Skill that turns one sentence into a playable pixel-art visual novel. Sprites, scenes and music are all written as code, and every game must pass ten bundled checks, including an exhaustive ending solver." src="assets/proj-galforge-light.svg" width="98.5%"></picture></a>
+</p>
+<p>
 <a href="https://github.com/lyra-planet/LyHarness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-lyharness-dark.svg"><img alt="LyHarness: Modular coding-agent runtime: tools, worktree isolation, skills, MCP, persistent tasks and memory, resumable workflows." src="assets/proj-lyharness-light.svg" width="49%"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-patchloom-dark.svg"><img alt="Patchloom: Multi-agent PR review and auto-fix with a self-evolving orchestrator; 92.5% review accuracy on 100 controlled PR diffs." src="assets/proj-patchloom-light.svg" width="49%"></picture>
 </p>
