@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Claude Code token usage</title>
-<desc id="d">85.1B tokens since 2026-10-20; daily table and JSON are in the repository.</desc>
+<desc id="d">85.3B tokens since 2026-10-20; daily table and JSON are in the repository.</desc>
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#faf9f5" stroke="#e3dfd3"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#141413" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Claude Code usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Nov 10, 23:53 (UTC+8)</text>
-<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">85.1B</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#87867f" text-anchor="end">since Oct 20, 2026 · updated Nov 11, 00:54 (UTC+8)</text>
+<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">85.3B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="300.0" y1="78" x2="300.0" y2="136" stroke="#ebe8df"/>
 <text x="314.0" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">301M</text>
 <text x="314.0" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:160ms">output tokens</text>
 <line x1="410.4" y1="78" x2="410.4" y2="136" stroke="#ebe8df"/>
-<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">253.4k</text>
+<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">253.9k</text>
 <text x="424.4" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="520.8" y1="78" x2="520.8" y2="136" stroke="#ebe8df"/>
-<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">1,288</text>
+<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">1,306</text>
 <text x="534.8" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:300ms">sessions</text>
 <line x1="631.2" y1="78" x2="631.2" y2="136" stroke="#ebe8df"/>
-<text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">22</text>
+<text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">23</text>
 <text x="645.2" y="136.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" class="a" style="animation-delay:370ms">active days</text>
 <line x1="741.6" y1="78" x2="741.6" y2="136" stroke="#ebe8df"/>
 <text x="755.6" y="112.0" font-size="27" font-weight="500" fill="#141413" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:400ms">97.2%</text>
@@ -30,33 +30,34 @@
 <line x1="72" y1="200.0" x2="528" y2="200.0" stroke="#ebe8df"/>
 <text x="64.0" y="204.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="end">10B</text>
 <g fill="#d97757">
-<path class="g" style="animation-delay:526ms" d="M194.6,370.0 V370.0 Q194.6,367.6 197.0,367.6 H205.4 Q207.8,367.6 207.8,370.0 V370.0 Z"/>
-<path class="g" style="animation-delay:548ms" d="M209.8,370.0 V368.6 Q209.8,364.6 213.8,364.6 H219.0 Q223.0,364.6 223.0,368.6 V370.0 Z"/>
-<path class="g" style="animation-delay:570ms" d="M225.0,370.0 V357.7 Q225.0,353.7 229.0,353.7 H234.2 Q238.2,353.7 238.2,357.7 V370.0 Z"/>
-<path class="g" style="animation-delay:592ms" d="M240.2,370.0 V357.0 Q240.2,353.0 244.2,353.0 H249.4 Q253.4,353.0 253.4,357.0 V370.0 Z"/>
-<path class="g" style="animation-delay:614ms" d="M255.4,370.0 V339.6 Q255.4,335.6 259.4,335.6 H264.6 Q268.6,335.6 268.6,339.6 V370.0 Z"/>
-<path class="g" style="animation-delay:636ms" d="M270.6,370.0 V325.1 Q270.6,321.1 274.6,321.1 H279.8 Q283.8,321.1 283.8,325.1 V370.0 Z"/>
-<path class="g" style="animation-delay:658ms" d="M285.8,370.0 V305.1 Q285.8,301.1 289.8,301.1 H295.0 Q299.0,301.1 299.0,305.1 V370.0 Z"/>
-<path class="g" style="animation-delay:680ms" d="M301.0,370.0 V281.6 Q301.0,277.6 305.0,277.6 H310.2 Q314.2,277.6 314.2,281.6 V370.0 Z"/>
-<path class="g" style="animation-delay:702ms" d="M316.2,370.0 V326.1 Q316.2,322.1 320.2,322.1 H325.4 Q329.4,322.1 329.4,326.1 V370.0 Z"/>
-<path class="g" style="animation-delay:724ms" d="M331.4,370.0 V309.4 Q331.4,305.4 335.4,305.4 H340.6 Q344.6,305.4 344.6,309.4 V370.0 Z"/>
-<path class="g" style="animation-delay:746ms" d="M346.6,370.0 V316.3 Q346.6,312.3 350.6,312.3 H355.8 Q359.8,312.3 359.8,316.3 V370.0 Z"/>
-<path class="g" style="animation-delay:768ms" d="M361.8,370.0 V339.9 Q361.8,335.9 365.8,335.9 H371.0 Q375.0,335.9 375.0,339.9 V370.0 Z"/>
-<path class="g" style="animation-delay:790ms" d="M377.0,370.0 V315.4 Q377.0,311.4 381.0,311.4 H386.2 Q390.2,311.4 390.2,315.4 V370.0 Z"/>
-<path class="g" style="animation-delay:812ms" d="M392.2,370.0 V271.5 Q392.2,267.5 396.2,267.5 H401.4 Q405.4,267.5 405.4,271.5 V370.0 Z"/>
-<path class="g" style="animation-delay:834ms" d="M407.4,370.0 V273.7 Q407.4,269.7 411.4,269.7 H416.6 Q420.6,269.7 420.6,273.7 V370.0 Z"/>
-<path class="g" style="animation-delay:856ms" d="M422.6,370.0 V273.3 Q422.6,269.3 426.6,269.3 H431.8 Q435.8,269.3 435.8,273.3 V370.0 Z"/>
-<path class="g" style="animation-delay:878ms" d="M437.8,370.0 V270.9 Q437.8,266.9 441.8,266.9 H447.0 Q451.0,266.9 451.0,270.9 V370.0 Z"/>
-<path class="g" style="animation-delay:900ms" d="M453.0,370.0 V279.7 Q453.0,275.7 457.0,275.7 H462.2 Q466.2,275.7 466.2,279.7 V370.0 Z"/>
-<path class="g" style="animation-delay:922ms" d="M468.2,370.0 V301.5 Q468.2,297.5 472.2,297.5 H477.4 Q481.4,297.5 481.4,301.5 V370.0 Z"/>
-<path class="g" style="animation-delay:944ms" d="M483.4,370.0 V263.6 Q483.4,259.6 487.4,259.6 H492.6 Q496.6,259.6 496.6,263.6 V370.0 Z"/>
-<path class="g" style="animation-delay:966ms" d="M498.6,370.0 V296.3 Q498.6,292.3 502.6,292.3 H507.8 Q511.8,292.3 511.8,296.3 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V237.6 Q513.8,233.6 517.8,233.6 H523.0 Q527.0,233.6 527.0,237.6 V370.0 Z"/>
+<path class="g" style="animation-delay:504ms" d="M179.4,370.0 V370.0 Q179.4,367.6 181.8,367.6 H190.2 Q192.6,367.6 192.6,370.0 V370.0 Z"/>
+<path class="g" style="animation-delay:526ms" d="M194.6,370.0 V368.6 Q194.6,364.6 198.6,364.6 H203.8 Q207.8,364.6 207.8,368.6 V370.0 Z"/>
+<path class="g" style="animation-delay:548ms" d="M209.8,370.0 V357.7 Q209.8,353.7 213.8,353.7 H219.0 Q223.0,353.7 223.0,357.7 V370.0 Z"/>
+<path class="g" style="animation-delay:570ms" d="M225.0,370.0 V357.0 Q225.0,353.0 229.0,353.0 H234.2 Q238.2,353.0 238.2,357.0 V370.0 Z"/>
+<path class="g" style="animation-delay:592ms" d="M240.2,370.0 V339.6 Q240.2,335.6 244.2,335.6 H249.4 Q253.4,335.6 253.4,339.6 V370.0 Z"/>
+<path class="g" style="animation-delay:614ms" d="M255.4,370.0 V325.1 Q255.4,321.1 259.4,321.1 H264.6 Q268.6,321.1 268.6,325.1 V370.0 Z"/>
+<path class="g" style="animation-delay:636ms" d="M270.6,370.0 V305.1 Q270.6,301.1 274.6,301.1 H279.8 Q283.8,301.1 283.8,305.1 V370.0 Z"/>
+<path class="g" style="animation-delay:658ms" d="M285.8,370.0 V281.6 Q285.8,277.6 289.8,277.6 H295.0 Q299.0,277.6 299.0,281.6 V370.0 Z"/>
+<path class="g" style="animation-delay:680ms" d="M301.0,370.0 V326.1 Q301.0,322.1 305.0,322.1 H310.2 Q314.2,322.1 314.2,326.1 V370.0 Z"/>
+<path class="g" style="animation-delay:702ms" d="M316.2,370.0 V309.4 Q316.2,305.4 320.2,305.4 H325.4 Q329.4,305.4 329.4,309.4 V370.0 Z"/>
+<path class="g" style="animation-delay:724ms" d="M331.4,370.0 V316.3 Q331.4,312.3 335.4,312.3 H340.6 Q344.6,312.3 344.6,316.3 V370.0 Z"/>
+<path class="g" style="animation-delay:746ms" d="M346.6,370.0 V339.9 Q346.6,335.9 350.6,335.9 H355.8 Q359.8,335.9 359.8,339.9 V370.0 Z"/>
+<path class="g" style="animation-delay:768ms" d="M361.8,370.0 V315.4 Q361.8,311.4 365.8,311.4 H371.0 Q375.0,311.4 375.0,315.4 V370.0 Z"/>
+<path class="g" style="animation-delay:790ms" d="M377.0,370.0 V271.5 Q377.0,267.5 381.0,267.5 H386.2 Q390.2,267.5 390.2,271.5 V370.0 Z"/>
+<path class="g" style="animation-delay:812ms" d="M392.2,370.0 V273.7 Q392.2,269.7 396.2,269.7 H401.4 Q405.4,269.7 405.4,273.7 V370.0 Z"/>
+<path class="g" style="animation-delay:834ms" d="M407.4,370.0 V273.3 Q407.4,269.3 411.4,269.3 H416.6 Q420.6,269.3 420.6,273.3 V370.0 Z"/>
+<path class="g" style="animation-delay:856ms" d="M422.6,370.0 V270.9 Q422.6,266.9 426.6,266.9 H431.8 Q435.8,266.9 435.8,270.9 V370.0 Z"/>
+<path class="g" style="animation-delay:878ms" d="M437.8,370.0 V279.7 Q437.8,275.7 441.8,275.7 H447.0 Q451.0,275.7 451.0,279.7 V370.0 Z"/>
+<path class="g" style="animation-delay:900ms" d="M453.0,370.0 V301.5 Q453.0,297.5 457.0,297.5 H462.2 Q466.2,297.5 466.2,301.5 V370.0 Z"/>
+<path class="g" style="animation-delay:922ms" d="M468.2,370.0 V263.6 Q468.2,259.6 472.2,259.6 H477.4 Q481.4,259.6 481.4,263.6 V370.0 Z"/>
+<path class="g" style="animation-delay:944ms" d="M483.4,370.0 V296.3 Q483.4,292.3 487.4,292.3 H492.6 Q496.6,292.3 496.6,296.3 V370.0 Z"/>
+<path class="g" style="animation-delay:966ms" d="M498.6,370.0 V237.1 Q498.6,233.1 502.6,233.1 H507.8 Q511.8,233.1 511.8,237.1 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V370.0 Q513.8,366.8 517.0,366.8 H523.8 Q527.0,366.8 527.0,370.0 V370.0 Z"/>
 </g>
-<text x="520.4" y="227.6" font-size="11" font-weight="600" fill="#141413" text-anchor="middle" class="a" style="animation-delay:1100ms">8.03B</text>
-<text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Oct 12</text>
-<text x="292.4" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Oct 26</text>
-<text x="520.4" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Nov 10</text>
+<text x="505.2" y="227.1" font-size="11" font-weight="600" fill="#141413" text-anchor="middle" class="a" style="animation-delay:1100ms">8.06B</text>
+<text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Oct 13</text>
+<text x="292.4" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Oct 27</text>
+<text x="520.4" y="386.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="middle">Nov 11</text>
 <text x="560.0" y="184.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">ACTIVITY · LAST 26 WEEKS</text>
 <rect class="h" style="animation-delay:400ms" x="560" y="200" width="10" height="10" rx="2" fill="#efede5"/>
 <rect class="h" style="animation-delay:400ms" x="560" y="212" width="10" height="10" rx="2" fill="#efede5"/>
@@ -222,9 +223,9 @@
 <rect class="h" style="animation-delay:906ms" x="836" y="200" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:906ms" x="836" y="212" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:906ms" x="836" y="224" width="10" height="10" rx="2" fill="#eab79f"/>
-<rect class="h" style="animation-delay:906ms" x="836" y="236" width="10" height="10" rx="2" fill="#eab79f"/>
+<rect class="h" style="animation-delay:906ms" x="836" y="236" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:906ms" x="836" y="248" width="10" height="10" rx="2" fill="#eab79f"/>
-<rect class="h" style="animation-delay:906ms" x="836" y="260" width="10" height="10" rx="2" fill="#f3d9cc"/>
+<rect class="h" style="animation-delay:906ms" x="836" y="260" width="10" height="10" rx="2" fill="#eab79f"/>
 <rect class="h" style="animation-delay:906ms" x="836" y="272" width="10" height="10" rx="2" fill="#eab79f"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="200" width="10" height="10" rx="2" fill="#c96a47"/>
 <rect class="h" style="animation-delay:928ms" x="848" y="212" width="10" height="10" rx="2" fill="#c96a47"/>
@@ -235,6 +236,7 @@
 <rect class="h" style="animation-delay:928ms" x="848" y="272" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="200" width="10" height="10" rx="2" fill="#df9174"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="212" width="10" height="10" rx="2" fill="#9c4a2c"/>
+<rect class="h" style="animation-delay:950ms" x="860" y="224" width="10" height="10" rx="2" fill="#f3d9cc"/>
 <text x="554.0" y="209.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Mon</text>
 <text x="554.0" y="233.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Wed</text>
 <text x="554.0" y="257.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="end">Fri</text>
@@ -253,14 +255,14 @@
 <rect x="650" y="314" width="10" height="10" rx="2" fill="#9c4a2c"/>
 <text x="666.0" y="323.0" font-size="10" font-weight="400" fill="#87867f" text-anchor="start">More</text>
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
-<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="552.4" height="14" rx="4" fill="#d97757"/>
-<rect class="m" style="animation-delay:1020ms" x="582.4" y="440" width="250.3" height="14" rx="4" fill="#2a78d6"/>
-<rect class="m" style="animation-delay:1140ms" x="834.7" y="440" width="15.3" height="14" rx="4" fill="#b8b5ab"/>
+<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="552.0" height="14" rx="4" fill="#d97757"/>
+<rect class="m" style="animation-delay:1020ms" x="582.0" y="440" width="249.7" height="14" rx="4" fill="#2a78d6"/>
+<rect class="m" style="animation-delay:1140ms" x="833.6" y="440" width="16.4" height="14" rx="4" fill="#b8b5ab"/>
 <rect x="28" y="466" width="10" height="10" rx="2" fill="#d97757"/>
-<text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5.5  67.3%</text>
+<text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5.5  67.2%</text>
 <rect x="176.0" y="466" width="10" height="10" rx="2" fill="#2a78d6"/>
-<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5  30.6%</text>
+<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Opus 5  30.5%</text>
 <rect x="309.6" y="466" width="10" height="10" rx="2" fill="#b8b5ab"/>
-<text x="325.6" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Other (Fable 5.1, Fable 5.2, Sonnet 5.5, Anthropic/claude , Haiku 5.5, Anthropic/claude )  2.1%</text>
+<text x="325.6" y="475.0" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start">Other (Fable 5.1, Fable 5.2, Sonnet 5.5, Anthropic/claude , Haiku 5.5, Anthropic/claude )  2.2%</text>
 <text x="28.0" y="502.0" font-size="11" font-weight="400" fill="#87867f" text-anchor="start">Counted from local Claude Code transcripts · deduplicated per API response · daily totals only, no content</text>
 </svg>
