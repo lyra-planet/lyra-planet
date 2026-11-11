@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-12T02:55+08:00",
+ "generated_at": "2026-11-12T03:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 35661097,
-  "output": 322973450,
-  "cache_write": 2217845293,
-  "cache_read": 87948027685,
-  "total": 90524507525,
-  "requests": 274413,
-  "sessions": 1542
+  "input": 35664797,
+  "output": 324427177,
+  "cache_write": 2222600399,
+  "cache_read": 88306541442,
+  "total": 90889233815,
+  "requests": 276240,
+  "sessions": 1552
  },
  "models": {
-  "claude-opus-5-5": 61811700948,
-  "claude-opus-5": 26767701068,
+  "claude-opus-5-5": 62145442019,
+  "claude-opus-5": 26798686287,
   "claude-fable-5-1": 1563497160,
   "claude-fable-5-2": 268364608,
   "claude-sonnet-5-5": 57789713,
@@ -253,13 +253,13 @@
   },
   {
    "date": "2026-11-12",
-   "input": 7248,
-   "output": 3389074,
-   "cache_write": 26974276,
-   "cache_read": 707989953,
-   "requests": 3553,
-   "sessions": 48,
-   "total": 738360551
+   "input": 10948,
+   "output": 4842801,
+   "cache_write": 31729382,
+   "cache_read": 1066503710,
+   "requests": 5380,
+   "sessions": 58,
+   "total": 1103086841
   }
  ]
 }
