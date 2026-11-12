@@ -41,11 +41,11 @@
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-11-13 04:51, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-11-13 05:51, UTC+8)</summary>
 
 | Date | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
-| 2026-11-13 | 670M | 3.65M | 651M | 3,350 | 65 |
+| 2026-11-13 | 742M | 3.91M | 721M | 3,655 | 68 |
 | 2026-11-12 | 5.06B | 20.9M | 4.92B | 20,078 | 185 |
 | 2026-11-11 | 4.66B | 18.9M | 4.48B | 17,382 | 206 |
 | 2026-11-10 | 8.06B | 35.8M | 7.58B | 25,498 | 208 |
