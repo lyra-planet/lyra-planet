@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:51+08:00",
+ "generated_at": "2026-11-17T12:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
   "input": 35793603,
@@ -8,7 +8,7 @@
   "cache_read": 108046829155,
   "total": 111049576543,
   "requests": 339824,
-  "sessions": 2179
+  "sessions": 2177
  },
  "models": {
   "claude-opus-5-5": 79310395274,
@@ -309,7 +309,7 @@
    "cache_write": 36359097,
    "cache_read": 2840101349,
    "requests": 8572,
-   "sessions": 44,
+   "sessions": 42,
    "total": 2885639390
   }
  ]
