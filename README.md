@@ -41,7 +41,7 @@
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-11-20 02:52, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-11-20 03:52, UTC+8)</summary>
 
 | Date | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
