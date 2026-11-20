@@ -41,7 +41,7 @@
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-11-20 10:51, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-11-20 11:52, UTC+8)</summary>
 
 | Date | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
@@ -76,7 +76,7 @@
 | 2026-10-23 | 999M | 3.87M | 983M | 2,722 | 15 |
 | 2026-10-22 | 961M | 3.15M | 945M | 2,801 | 10 |
 | 2026-10-21 | 317M | 1.61M | 308M | 1,224 | 25 |
-| 2026-10-20 | 125M | 322k | 122M | 811 | 5 |
+| 2026-10-20 | 109M | 188k | 107M | 710 | 1 |
 
 Raw data: [`data/claude-code-usage.json`](data/claude-code-usage.json)
 </details>
