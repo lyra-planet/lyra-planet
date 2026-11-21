@@ -4,20 +4,20 @@
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#262624" stroke="#3d3d3a"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#faf9f5" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Claude Code usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 21, 22:57 (UTC+8)</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 22, 00:03 (UTC+8)</text>
 <text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">132B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="300.0" y1="78" x2="300.0" y2="136" stroke="#34332f"/>
 <text x="314.0" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">444M</text>
 <text x="314.0" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:160ms">output tokens</text>
 <line x1="410.4" y1="78" x2="410.4" y2="136" stroke="#34332f"/>
-<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">387.4k</text>
+<text x="424.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">388.0k</text>
 <text x="424.4" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="520.8" y1="78" x2="520.8" y2="136" stroke="#34332f"/>
-<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">2,452</text>
+<text x="534.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">2,456</text>
 <text x="534.8" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:300ms">sessions</text>
 <line x1="631.2" y1="78" x2="631.2" y2="136" stroke="#34332f"/>
-<text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">33</text>
+<text x="645.2" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:330ms">34</text>
 <text x="645.2" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:370ms">active days</text>
 <line x1="741.6" y1="78" x2="741.6" y2="136" stroke="#34332f"/>
 <text x="755.6" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:400ms">97.5%</text>
@@ -30,41 +30,41 @@
 <line x1="72" y1="200.0" x2="528" y2="200.0" stroke="#34332f"/>
 <text x="64.0" y="204.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="end">10B</text>
 <g fill="#cf6844">
-<path class="g" style="animation-delay:350ms" d="M73.0,370.0 V357.0 Q73.0,353.0 77.0,353.0 H82.2 Q86.2,353.0 86.2,357.0 V370.0 Z"/>
-<path class="g" style="animation-delay:372ms" d="M88.2,370.0 V339.6 Q88.2,335.6 92.2,335.6 H97.4 Q101.4,335.6 101.4,339.6 V370.0 Z"/>
-<path class="g" style="animation-delay:394ms" d="M103.4,370.0 V325.1 Q103.4,321.1 107.4,321.1 H112.6 Q116.6,321.1 116.6,325.1 V370.0 Z"/>
-<path class="g" style="animation-delay:416ms" d="M118.6,370.0 V305.1 Q118.6,301.1 122.6,301.1 H127.8 Q131.8,301.1 131.8,305.1 V370.0 Z"/>
-<path class="g" style="animation-delay:438ms" d="M133.8,370.0 V281.6 Q133.8,277.6 137.8,277.6 H143.0 Q147.0,277.6 147.0,281.6 V370.0 Z"/>
-<path class="g" style="animation-delay:460ms" d="M149.0,370.0 V326.1 Q149.0,322.1 153.0,322.1 H158.2 Q162.2,322.1 162.2,326.1 V370.0 Z"/>
-<path class="g" style="animation-delay:482ms" d="M164.2,370.0 V309.4 Q164.2,305.4 168.2,305.4 H173.4 Q177.4,305.4 177.4,309.4 V370.0 Z"/>
-<path class="g" style="animation-delay:504ms" d="M179.4,370.0 V316.3 Q179.4,312.3 183.4,312.3 H188.6 Q192.6,312.3 192.6,316.3 V370.0 Z"/>
-<path class="g" style="animation-delay:526ms" d="M194.6,370.0 V339.9 Q194.6,335.9 198.6,335.9 H203.8 Q207.8,335.9 207.8,339.9 V370.0 Z"/>
-<path class="g" style="animation-delay:548ms" d="M209.8,370.0 V315.4 Q209.8,311.4 213.8,311.4 H219.0 Q223.0,311.4 223.0,315.4 V370.0 Z"/>
-<path class="g" style="animation-delay:570ms" d="M225.0,370.0 V271.5 Q225.0,267.5 229.0,267.5 H234.2 Q238.2,267.5 238.2,271.5 V370.0 Z"/>
-<path class="g" style="animation-delay:592ms" d="M240.2,370.0 V273.7 Q240.2,269.7 244.2,269.7 H249.4 Q253.4,269.7 253.4,273.7 V370.0 Z"/>
-<path class="g" style="animation-delay:614ms" d="M255.4,370.0 V273.3 Q255.4,269.3 259.4,269.3 H264.6 Q268.6,269.3 268.6,273.3 V370.0 Z"/>
-<path class="g" style="animation-delay:636ms" d="M270.6,370.0 V270.9 Q270.6,266.9 274.6,266.9 H279.8 Q283.8,266.9 283.8,270.9 V370.0 Z"/>
-<path class="g" style="animation-delay:658ms" d="M285.8,370.0 V279.7 Q285.8,275.7 289.8,275.7 H295.0 Q299.0,275.7 299.0,279.7 V370.0 Z"/>
-<path class="g" style="animation-delay:680ms" d="M301.0,370.0 V301.5 Q301.0,297.5 305.0,297.5 H310.2 Q314.2,297.5 314.2,301.5 V370.0 Z"/>
-<path class="g" style="animation-delay:702ms" d="M316.2,370.0 V263.6 Q316.2,259.6 320.2,259.6 H325.4 Q329.4,259.6 329.4,263.6 V370.0 Z"/>
-<path class="g" style="animation-delay:724ms" d="M331.4,370.0 V296.3 Q331.4,292.3 335.4,292.3 H340.6 Q344.6,292.3 344.6,296.3 V370.0 Z"/>
-<path class="g" style="animation-delay:746ms" d="M346.6,370.0 V237.1 Q346.6,233.1 350.6,233.1 H355.8 Q359.8,233.1 359.8,237.1 V370.0 Z"/>
-<path class="g" style="animation-delay:768ms" d="M361.8,370.0 V294.8 Q361.8,290.8 365.8,290.8 H371.0 Q375.0,290.8 375.0,294.8 V370.0 Z"/>
-<path class="g" style="animation-delay:790ms" d="M377.0,370.0 V288.0 Q377.0,284.0 381.0,284.0 H386.2 Q390.2,284.0 390.2,288.0 V370.0 Z"/>
-<path class="g" style="animation-delay:812ms" d="M392.2,370.0 V323.8 Q392.2,319.8 396.2,319.8 H401.4 Q405.4,319.8 405.4,323.8 V370.0 Z"/>
-<path class="g" style="animation-delay:834ms" d="M407.4,370.0 V333.6 Q407.4,329.6 411.4,329.6 H416.6 Q420.6,329.6 420.6,333.6 V370.0 Z"/>
-<path class="g" style="animation-delay:856ms" d="M422.6,370.0 V328.2 Q422.6,324.2 426.6,324.2 H431.8 Q435.8,324.2 435.8,328.2 V370.0 Z"/>
-<path class="g" style="animation-delay:878ms" d="M437.8,370.0 V283.9 Q437.8,279.9 441.8,279.9 H447.0 Q451.0,279.9 451.0,283.9 V370.0 Z"/>
-<path class="g" style="animation-delay:900ms" d="M453.0,370.0 V266.0 Q453.0,262.0 457.0,262.0 H462.2 Q466.2,262.0 466.2,266.0 V370.0 Z"/>
-<path class="g" style="animation-delay:922ms" d="M468.2,370.0 V237.9 Q468.2,233.9 472.2,233.9 H477.4 Q481.4,233.9 481.4,237.9 V370.0 Z"/>
-<path class="g" style="animation-delay:944ms" d="M483.4,370.0 V336.6 Q483.4,332.6 487.4,332.6 H492.6 Q496.6,332.6 496.6,336.6 V370.0 Z"/>
-<path class="g" style="animation-delay:966ms" d="M498.6,370.0 V344.8 Q498.6,340.8 502.6,340.8 H507.8 Q511.8,340.8 511.8,344.8 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V279.5 Q513.8,275.5 517.8,275.5 H523.0 Q527.0,275.5 527.0,279.5 V370.0 Z"/>
+<path class="g" style="animation-delay:350ms" d="M73.0,370.0 V339.6 Q73.0,335.6 77.0,335.6 H82.2 Q86.2,335.6 86.2,339.6 V370.0 Z"/>
+<path class="g" style="animation-delay:372ms" d="M88.2,370.0 V325.1 Q88.2,321.1 92.2,321.1 H97.4 Q101.4,321.1 101.4,325.1 V370.0 Z"/>
+<path class="g" style="animation-delay:394ms" d="M103.4,370.0 V305.1 Q103.4,301.1 107.4,301.1 H112.6 Q116.6,301.1 116.6,305.1 V370.0 Z"/>
+<path class="g" style="animation-delay:416ms" d="M118.6,370.0 V281.6 Q118.6,277.6 122.6,277.6 H127.8 Q131.8,277.6 131.8,281.6 V370.0 Z"/>
+<path class="g" style="animation-delay:438ms" d="M133.8,370.0 V326.1 Q133.8,322.1 137.8,322.1 H143.0 Q147.0,322.1 147.0,326.1 V370.0 Z"/>
+<path class="g" style="animation-delay:460ms" d="M149.0,370.0 V309.4 Q149.0,305.4 153.0,305.4 H158.2 Q162.2,305.4 162.2,309.4 V370.0 Z"/>
+<path class="g" style="animation-delay:482ms" d="M164.2,370.0 V316.3 Q164.2,312.3 168.2,312.3 H173.4 Q177.4,312.3 177.4,316.3 V370.0 Z"/>
+<path class="g" style="animation-delay:504ms" d="M179.4,370.0 V339.9 Q179.4,335.9 183.4,335.9 H188.6 Q192.6,335.9 192.6,339.9 V370.0 Z"/>
+<path class="g" style="animation-delay:526ms" d="M194.6,370.0 V315.4 Q194.6,311.4 198.6,311.4 H203.8 Q207.8,311.4 207.8,315.4 V370.0 Z"/>
+<path class="g" style="animation-delay:548ms" d="M209.8,370.0 V271.5 Q209.8,267.5 213.8,267.5 H219.0 Q223.0,267.5 223.0,271.5 V370.0 Z"/>
+<path class="g" style="animation-delay:570ms" d="M225.0,370.0 V273.7 Q225.0,269.7 229.0,269.7 H234.2 Q238.2,269.7 238.2,273.7 V370.0 Z"/>
+<path class="g" style="animation-delay:592ms" d="M240.2,370.0 V273.3 Q240.2,269.3 244.2,269.3 H249.4 Q253.4,269.3 253.4,273.3 V370.0 Z"/>
+<path class="g" style="animation-delay:614ms" d="M255.4,370.0 V270.9 Q255.4,266.9 259.4,266.9 H264.6 Q268.6,266.9 268.6,270.9 V370.0 Z"/>
+<path class="g" style="animation-delay:636ms" d="M270.6,370.0 V279.7 Q270.6,275.7 274.6,275.7 H279.8 Q283.8,275.7 283.8,279.7 V370.0 Z"/>
+<path class="g" style="animation-delay:658ms" d="M285.8,370.0 V301.5 Q285.8,297.5 289.8,297.5 H295.0 Q299.0,297.5 299.0,301.5 V370.0 Z"/>
+<path class="g" style="animation-delay:680ms" d="M301.0,370.0 V263.6 Q301.0,259.6 305.0,259.6 H310.2 Q314.2,259.6 314.2,263.6 V370.0 Z"/>
+<path class="g" style="animation-delay:702ms" d="M316.2,370.0 V296.3 Q316.2,292.3 320.2,292.3 H325.4 Q329.4,292.3 329.4,296.3 V370.0 Z"/>
+<path class="g" style="animation-delay:724ms" d="M331.4,370.0 V237.1 Q331.4,233.1 335.4,233.1 H340.6 Q344.6,233.1 344.6,237.1 V370.0 Z"/>
+<path class="g" style="animation-delay:746ms" d="M346.6,370.0 V294.8 Q346.6,290.8 350.6,290.8 H355.8 Q359.8,290.8 359.8,294.8 V370.0 Z"/>
+<path class="g" style="animation-delay:768ms" d="M361.8,370.0 V288.0 Q361.8,284.0 365.8,284.0 H371.0 Q375.0,284.0 375.0,288.0 V370.0 Z"/>
+<path class="g" style="animation-delay:790ms" d="M377.0,370.0 V323.8 Q377.0,319.8 381.0,319.8 H386.2 Q390.2,319.8 390.2,323.8 V370.0 Z"/>
+<path class="g" style="animation-delay:812ms" d="M392.2,370.0 V333.6 Q392.2,329.6 396.2,329.6 H401.4 Q405.4,329.6 405.4,333.6 V370.0 Z"/>
+<path class="g" style="animation-delay:834ms" d="M407.4,370.0 V328.2 Q407.4,324.2 411.4,324.2 H416.6 Q420.6,324.2 420.6,328.2 V370.0 Z"/>
+<path class="g" style="animation-delay:856ms" d="M422.6,370.0 V283.9 Q422.6,279.9 426.6,279.9 H431.8 Q435.8,279.9 435.8,283.9 V370.0 Z"/>
+<path class="g" style="animation-delay:878ms" d="M437.8,370.0 V266.0 Q437.8,262.0 441.8,262.0 H447.0 Q451.0,262.0 451.0,266.0 V370.0 Z"/>
+<path class="g" style="animation-delay:900ms" d="M453.0,370.0 V237.9 Q453.0,233.9 457.0,233.9 H462.2 Q466.2,233.9 466.2,237.9 V370.0 Z"/>
+<path class="g" style="animation-delay:922ms" d="M468.2,370.0 V336.6 Q468.2,332.6 472.2,332.6 H477.4 Q481.4,332.6 481.4,336.6 V370.0 Z"/>
+<path class="g" style="animation-delay:944ms" d="M483.4,370.0 V344.8 Q483.4,340.8 487.4,340.8 H492.6 Q496.6,340.8 496.6,344.8 V370.0 Z"/>
+<path class="g" style="animation-delay:966ms" d="M498.6,370.0 V274.3 Q498.6,270.3 502.6,270.3 H507.8 Q511.8,270.3 511.8,274.3 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M513.8,370.0 V370.0 Q513.8,368.0 515.8,368.0 H525.0 Q527.0,368.0 527.0,370.0 V370.0 Z"/>
 </g>
-<text x="353.2" y="227.1" font-size="11" font-weight="600" fill="#faf9f5" text-anchor="middle" class="a" style="animation-delay:1100ms">8.06B</text>
-<text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Oct 23</text>
-<text x="292.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Nov 06</text>
-<text x="520.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Nov 21</text>
+<text x="338.0" y="227.1" font-size="11" font-weight="600" fill="#faf9f5" text-anchor="middle" class="a" style="animation-delay:1100ms">8.06B</text>
+<text x="79.6" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Oct 24</text>
+<text x="292.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Nov 07</text>
+<text x="520.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Nov 22</text>
 <text x="560.0" y="184.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">ACTIVITY · LAST 26 WEEKS</text>
 <rect class="h" style="animation-delay:400ms" x="560" y="200" width="10" height="10" rx="2" fill="#2f2e2b"/>
 <rect class="h" style="animation-delay:400ms" x="560" y="212" width="10" height="10" rx="2" fill="#2f2e2b"/>
@@ -244,9 +244,10 @@
 <rect class="h" style="animation-delay:950ms" x="860" y="200" width="10" height="10" rx="2" fill="#b05a38"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="212" width="10" height="10" rx="2" fill="#efb197"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="224" width="10" height="10" rx="2" fill="#efb197"/>
-<rect class="h" style="animation-delay:950ms" x="860" y="236" width="10" height="10" rx="2" fill="#5a2e1f"/>
+<rect class="h" style="animation-delay:950ms" x="860" y="236" width="10" height="10" rx="2" fill="#86422a"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="248" width="10" height="10" rx="2" fill="#5a2e1f"/>
 <rect class="h" style="animation-delay:950ms" x="860" y="260" width="10" height="10" rx="2" fill="#d97757"/>
+<rect class="h" style="animation-delay:950ms" x="860" y="272" width="10" height="10" rx="2" fill="#5a2e1f"/>
 <text x="554.0" y="209.0" font-size="10" font-weight="400" fill="#9c9a92" text-anchor="end">Mon</text>
 <text x="554.0" y="233.0" font-size="10" font-weight="400" fill="#9c9a92" text-anchor="end">Wed</text>
 <text x="554.0" y="257.0" font-size="10" font-weight="400" fill="#9c9a92" text-anchor="end">Fri</text>
@@ -265,8 +266,8 @@
 <rect x="650" y="314" width="10" height="10" rx="2" fill="#efb197"/>
 <text x="666.0" y="323.0" font-size="10" font-weight="400" fill="#9c9a92" text-anchor="start">More</text>
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
-<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="599.2" height="14" rx="4" fill="#cf6844"/>
-<rect class="m" style="animation-delay:1020ms" x="629.2" y="440" width="208.4" height="14" rx="4" fill="#3987e5"/>
+<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="599.4" height="14" rx="4" fill="#cf6844"/>
+<rect class="m" style="animation-delay:1020ms" x="629.4" y="440" width="208.2" height="14" rx="4" fill="#3987e5"/>
 <rect class="m" style="animation-delay:1140ms" x="839.6" y="440" width="10.4" height="14" rx="4" fill="#6b6a65"/>
 <rect x="28" y="466" width="10" height="10" rx="2" fill="#cf6844"/>
 <text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Opus 5.5  73.0%</text>
