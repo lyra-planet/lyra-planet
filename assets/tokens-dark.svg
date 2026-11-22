@@ -4,14 +4,14 @@
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#262624" stroke="#3d3d3a"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#faf9f5" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Coding agent usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 22, 19:57 (UTC+8)</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 22, 20:52 (UTC+8)</text>
 <text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">139B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="220.0" y1="78" x2="220.0" y2="136" stroke="#34332f"/>
 <text x="234.0" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">462M</text>
 <text x="234.0" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:160ms">output tokens</text>
 <line x1="346.4" y1="78" x2="346.4" y2="136" stroke="#34332f"/>
-<text x="360.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">409.0k</text>
+<text x="360.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">409.3k</text>
 <text x="360.4" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="472.8" y1="78" x2="472.8" y2="136" stroke="#34332f"/>
 <text x="486.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">2,611</text>
@@ -59,7 +59,7 @@
 <path class="g" style="animation-delay:922ms" d="M457.8,370.0 V331.3 Q457.8,327.3 461.8,327.3 H466.6 Q470.6,327.3 470.6,331.3 V370.0 Z"/>
 <path class="g" style="animation-delay:944ms" d="M472.6,370.0 V340.8 Q472.6,336.8 476.6,336.8 H481.4 Q485.4,336.8 485.4,340.8 V370.0 Z"/>
 <path class="g" style="animation-delay:966ms" d="M487.4,370.0 V271.8 Q487.4,267.8 491.4,267.8 H496.2 Q500.2,267.8 500.2,271.8 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M502.2,370.0 V282.6 Q502.2,278.6 506.2,278.6 H511.0 Q515.0,278.6 515.0,282.6 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M502.2,370.0 V280.1 Q502.2,276.1 506.2,276.1 H511.0 Q515.0,276.1 515.0,280.1 V370.0 Z"/>
 </g>
 <text x="449.4" y="224.4" font-size="11" font-weight="600" fill="#faf9f5" text-anchor="middle" class="a" style="animation-delay:1100ms">8.21B</text>
 <text x="79.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Oct 24</text>
@@ -268,7 +268,7 @@
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
 <text x="852.0" y="428.0" font-size="11" font-weight="400" fill="#c2c0b6" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">Claude Code 138B · Codex 1.52B · Antigravity 248M</text>
 <rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="596.1" height="14" rx="4" fill="#cf6844"/>
-<rect class="m" style="animation-delay:1020ms" x="626.1" y="440" width="201.8" height="14" rx="4" fill="#3987e5"/>
+<rect class="m" style="animation-delay:1020ms" x="626.1" y="440" width="201.7" height="14" rx="4" fill="#3987e5"/>
 <rect class="m" style="animation-delay:1140ms" x="829.8" y="440" width="20.2" height="14" rx="4" fill="#6b6a65"/>
 <rect x="28.0" y="466" width="10" height="10" rx="2" fill="#cf6844"/>
 <text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Opus 5.5  72.6%</text>
