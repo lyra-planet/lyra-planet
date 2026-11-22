@@ -1,0 +1,532 @@
+{
+ "generated_at": "2026-11-22T18:03+08:00",
+ "tz": "Asia/Shanghai",
+ "totals": {
+  "input": 93915443,
+  "output": 461365774,
+  "cache_write": 2777687365,
+  "cache_read": 135540884517,
+  "total": 138873853099,
+  "requests": 408239,
+  "sessions": 2611
+ },
+ "sources": {
+  "claude": {
+   "input": 37034719,
+   "output": 453727990,
+   "cache_write": 2777687365,
+   "cache_read": 133850167963,
+   "total": 137118618037,
+   "requests": 397496,
+   "sessions": 2473,
+   "active_days": 34,
+   "first_date": "2026-10-20",
+   "last_date": "2026-11-22"
+  },
+  "codex": {
+   "input": 29200051,
+   "output": 6148564,
+   "cache_write": 0,
+   "cache_read": 1482030848,
+   "total": 1517379463,
+   "requests": 9783,
+   "sessions": 114,
+   "active_days": 13,
+   "first_date": "2026-11-06",
+   "last_date": "2026-11-22"
+  },
+  "agy": {
+   "input": 27680673,
+   "output": 1489220,
+   "cache_write": 0,
+   "cache_read": 208685706,
+   "total": 237855599,
+   "requests": 960,
+   "sessions": 24,
+   "active_days": 5,
+   "first_date": "2026-11-17",
+   "last_date": "2026-11-22"
+  }
+ },
+ "models": {
+  "claude-opus-5-5": 100735081421,
+  "claude-opus-5": 34397522072,
+  "claude-fable-5-1": 1560676156,
+  "gpt-6.2-astra": 731046181,
+  "gpt-6-astra": 488104690,
+  "gpt-6.1-sol": 298228592,
+  "claude-fable-5-2": 272409404,
+  "gemini-4-carbon": 172396567,
+  "claude-sonnet-5-5": 57952173,
+  "gemini-4-hydrogen": 51692818,
+  "claude-haiku-5-5": 44056751,
+  "anthropic/claude-fable-5.1": 43827324,
+  "gemini-4-neon": 13653336,
+  "anthropic/claude-opus-5.5": 6170402,
+  "claude-opus-4-8": 922334,
+  "gemini-pro-orchestrator": 69328,
+  "gemini-flash-worker-agy": 43550
+ },
+ "days": [
+  {
+   "date": "2026-10-20",
+   "input": 188,
+   "output": 134326,
+   "cache_write": 398809,
+   "cache_read": 19409597,
+   "requests": 94,
+   "sessions": 1,
+   "total": 19942920,
+   "by_source": {
+    "claude": 19942920
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "input": 15191,
+   "output": 1574972,
+   "cache_write": 7223926,
+   "cache_read": 304915094,
+   "requests": 1175,
+   "sessions": 16,
+   "total": 313729183,
+   "by_source": {
+    "claude": 313729183
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "input": 6524,
+   "output": 3148520,
+   "cache_write": 13450838,
+   "cache_read": 944608656,
+   "requests": 2796,
+   "sessions": 5,
+   "total": 961214538,
+   "by_source": {
+    "claude": 961214538
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "input": 5336,
+   "output": 3786118,
+   "cache_write": 11144006,
+   "cache_read": 972498481,
+   "requests": 2616,
+   "sessions": 12,
+   "total": 987433941,
+   "by_source": {
+    "claude": 987433941
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "input": 21758,
+   "output": 12152266,
+   "cache_write": 55909350,
+   "cache_read": 1956857663,
+   "requests": 10847,
+   "sessions": 19,
+   "total": 2024941037,
+   "by_source": {
+    "claude": 2024941037
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "input": 27726,
+   "output": 12247767,
+   "cache_write": 73987791,
+   "cache_read": 2791507166,
+   "requests": 13795,
+   "sessions": 20,
+   "total": 2877770450,
+   "by_source": {
+    "claude": 2877770450
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "input": 25548,
+   "output": 15354370,
+   "cache_write": 61242738,
+   "cache_read": 3977646857,
+   "requests": 12718,
+   "sessions": 25,
+   "total": 4054269513,
+   "by_source": {
+    "claude": 4054269513
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "input": 31892,
+   "output": 18173276,
+   "cache_write": 76740210,
+   "cache_read": 5341787809,
+   "requests": 15120,
+   "sessions": 29,
+   "total": 5436733187,
+   "by_source": {
+    "claude": 5436733187
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "input": 21138,
+   "output": 10074844,
+   "cache_write": 52522404,
+   "cache_read": 2756223900,
+   "requests": 8563,
+   "sessions": 31,
+   "total": 2818842286,
+   "by_source": {
+    "claude": 2818842286
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "input": 25170,
+   "output": 13444338,
+   "cache_write": 91323228,
+   "cache_read": 3693346675,
+   "requests": 11001,
+   "sessions": 35,
+   "total": 3798139411,
+   "by_source": {
+    "claude": 3798139411
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "input": 18766,
+   "output": 11721515,
+   "cache_write": 57328468,
+   "cache_read": 3323173295,
+   "requests": 8961,
+   "sessions": 31,
+   "total": 3392242044,
+   "by_source": {
+    "claude": 3392242044
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "input": 9444,
+   "output": 6127572,
+   "cache_write": 37721045,
+   "cache_read": 1964465572,
+   "requests": 4648,
+   "sessions": 33,
+   "total": 2008323633,
+   "by_source": {
+    "claude": 2008323633
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "input": 20840,
+   "output": 14165705,
+   "cache_write": 69499583,
+   "cache_read": 3365986335,
+   "requests": 10277,
+   "sessions": 29,
+   "total": 3449672463,
+   "by_source": {
+    "claude": 3449672463
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "input": 36474,
+   "output": 21104073,
+   "cache_write": 162858727,
+   "cache_read": 5845084691,
+   "requests": 18034,
+   "sessions": 47,
+   "total": 6029083965,
+   "by_source": {
+    "claude": 6029083965
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "input": 38806,
+   "output": 22413552,
+   "cache_write": 144733498,
+   "cache_read": 5731166534,
+   "requests": 19057,
+   "sessions": 51,
+   "total": 5898352390,
+   "by_source": {
+    "claude": 5898352390
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "input": 37022,
+   "output": 18563318,
+   "cache_write": 134116310,
+   "cache_read": 5772479695,
+   "requests": 14816,
+   "sessions": 57,
+   "total": 5925196345,
+   "by_source": {
+    "claude": 5925196345
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "input": 40176,
+   "output": 16118321,
+   "cache_write": 99084080,
+   "cache_read": 5946964945,
+   "requests": 14042,
+   "sessions": 68,
+   "total": 6062207522,
+   "by_source": {
+    "claude": 6062207522
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "input": 104875,
+   "output": 16032171,
+   "cache_write": 152553720,
+   "cache_read": 5380562037,
+   "requests": 14824,
+   "sessions": 153,
+   "total": 5549252803,
+   "by_source": {
+    "claude": 5547910712,
+    "codex": 1342091
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "input": 25714,
+   "output": 12150817,
+   "cache_write": 109125669,
+   "cache_read": 4141587422,
+   "requests": 10159,
+   "sessions": 119,
+   "total": 4262889622,
+   "by_source": {
+    "claude": 4262889622
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "input": 793580,
+   "output": 19692665,
+   "cache_write": 113367603,
+   "cache_read": 6389385683,
+   "requests": 20018,
+   "sessions": 157,
+   "total": 6523239531,
+   "by_source": {
+    "claude": 6496178718,
+    "codex": 27060813
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "input": 7457064,
+   "output": 18184917,
+   "cache_write": 96347909,
+   "cache_read": 4799839266,
+   "requests": 16204,
+   "sessions": 193,
+   "total": 4921829156,
+   "by_source": {
+    "claude": 4571660213,
+    "codex": 350168943
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "input": 35076462,
+   "output": 35927457,
+   "cache_write": 409232313,
+   "cache_read": 7588244526,
+   "requests": 25604,
+   "sessions": 211,
+   "total": 8068480758,
+   "by_source": {
+    "claude": 8055759168,
+    "codex": 12721590
+   }
+  },
+  {
+   "date": "2026-11-11",
+   "input": 824585,
+   "output": 19189394,
+   "cache_write": 156868871,
+   "cache_read": 4532429094,
+   "requests": 17610,
+   "sessions": 210,
+   "total": 4709311944,
+   "by_source": {
+    "claude": 4659606814,
+    "codex": 49705130
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "input": 40836,
+   "output": 20918496,
+   "cache_write": 113480847,
+   "cache_read": 4924589561,
+   "requests": 20078,
+   "sessions": 179,
+   "total": 5059029740,
+   "by_source": {
+    "claude": 5059029740
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "input": 21216,
+   "output": 11104325,
+   "cache_write": 58129608,
+   "cache_read": 2882639145,
+   "requests": 10466,
+   "sessions": 172,
+   "total": 2951894294,
+   "by_source": {
+    "claude": 2951894294
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "input": 16948,
+   "output": 8500813,
+   "cache_write": 51895738,
+   "cache_read": 2313263642,
+   "requests": 8378,
+   "sessions": 122,
+   "total": 2373677141,
+   "by_source": {
+    "claude": 2373677141
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "input": 1055293,
+   "output": 9294286,
+   "cache_write": 73150030,
+   "cache_read": 2660001337,
+   "requests": 9100,
+   "sessions": 79,
+   "total": 2743500946,
+   "by_source": {
+    "claude": 2692651496,
+    "codex": 50849450
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "input": 206060,
+   "output": 13492797,
+   "cache_write": 51454884,
+   "cache_read": 5250497061,
+   "requests": 12852,
+   "sessions": 84,
+   "total": 5315650802,
+   "by_source": {
+    "claude": 5300537508,
+    "codex": 15113294
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "input": 14884261,
+   "output": 18193816,
+   "cache_write": 61968514,
+   "cache_read": 6573835010,
+   "requests": 17144,
+   "sessions": 92,
+   "total": 6668881601,
+   "by_source": {
+    "claude": 6350845245,
+    "codex": 203069649,
+    "agy": 114966707
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "input": 7378379,
+   "output": 23778074,
+   "cache_write": 77028301,
+   "cache_read": 8105514922,
+   "requests": 21316,
+   "sessions": 95,
+   "total": 8213699676,
+   "by_source": {
+    "claude": 8006613309,
+    "codex": 204240406,
+    "agy": 2845961
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "input": 4799169,
+   "output": 6749094,
+   "cache_write": 33991265,
+   "cache_read": 2467783527,
+   "requests": 7731,
+   "sessions": 93,
+   "total": 2513323055,
+   "by_source": {
+    "claude": 2199859181,
+    "codex": 313463874
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "input": 5250520,
+   "output": 5546953,
+   "cache_write": 17539521,
+   "cache_read": 1923533546,
+   "requests": 5807,
+   "sessions": 48,
+   "total": 1951870540,
+   "by_source": {
+    "claude": 1718789922,
+    "codex": 230893244,
+    "agy": 2187374
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "input": 11143377,
+   "output": 12631742,
+   "cache_write": 32010016,
+   "cache_read": 5953766974,
+   "requests": 12497,
+   "sessions": 74,
+   "total": 6009552109,
+   "by_source": {
+    "claude": 5890581286,
+    "codex": 32735740,
+    "agy": 86235083
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "input": 4455105,
+   "output": 9673104,
+   "cache_write": 20257545,
+   "cache_read": 4945288799,
+   "requests": 9891,
+   "sessions": 21,
+   "total": 4979674553,
+   "by_source": {
+    "claude": 4922038840,
+    "codex": 26015239,
+    "agy": 31620474
+   }
+  }
+ ]
+}
