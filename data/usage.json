@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-23T06:52+08:00",
+ "generated_at": "2026-11-23T07:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 95538143,
-  "output": 466773629,
-  "cache_write": 2787618926,
-  "cache_read": 138662478389,
-  "total": 142012409087,
-  "requests": 414213,
-  "sessions": 2625
+  "input": 95538205,
+  "output": 466798045,
+  "cache_write": 2787656322,
+  "cache_read": 138682566544,
+  "total": 142032559116,
+  "requests": 414244,
+  "sessions": 2624
  },
  "sources": {
   "claude": {
-   "input": 37046493,
-   "output": 458975031,
-   "cache_write": 2787618926,
-   "cache_read": 136951114877,
-   "total": 140234755327,
-   "requests": 403371,
-   "sessions": 2486,
+   "input": 37046555,
+   "output": 458999447,
+   "cache_write": 2787656322,
+   "cache_read": 136971203032,
+   "total": 140254905356,
+   "requests": 403402,
+   "sessions": 2485,
    "active_days": 35,
    "first_date": "2026-10-20",
    "last_date": "2026-11-23"
@@ -49,8 +49,8 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 103494405536,
-  "claude-opus-5": 34754305914,
+  "claude-opus-5-5": 103508761506,
+  "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
   "gpt-6.2-astra": 734467537,
   "gpt-6-astra": 488104690,
@@ -114,7 +114,7 @@
    "cache_write": 11144006,
    "cache_read": 972498481,
    "requests": 2616,
-   "sessions": 12,
+   "sessions": 11,
    "total": 987433941,
    "by_source": {
     "claude": 987433941
@@ -530,15 +530,15 @@
   },
   {
    "date": "2026-11-23",
-   "input": 483068,
-   "output": 3081097,
-   "cache_write": 5612713,
-   "cache_read": 1766875824,
-   "requests": 3504,
+   "input": 483130,
+   "output": 3105513,
+   "cache_write": 5650109,
+   "cache_read": 1786963979,
+   "requests": 3535,
    "sessions": 12,
-   "total": 1776052702,
+   "total": 1796202731,
    "by_source": {
-    "claude": 1765607901,
+    "claude": 1785757930,
     "agy": 10444801
    }
   }
