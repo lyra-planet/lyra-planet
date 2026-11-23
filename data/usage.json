@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-23T13:50+08:00",
+ "generated_at": "2026-11-23T14:50+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 125190443,
-  "output": 469224159,
+  "input": 143930988,
+  "output": 470187391,
   "cache_write": 2787656322,
-  "cache_read": 138973658453,
-  "total": 142355729377,
-  "requests": 415395,
-  "sessions": 2639
+  "cache_read": 139106620958,
+  "total": 142508395659,
+  "requests": 415953,
+  "sessions": 2643
  },
  "sources": {
   "claude": {
@@ -24,25 +24,25 @@
    "last_date": "2026-11-23"
   },
   "codex": {
-   "input": 29380049,
-   "output": 6203234,
+   "input": 29410668,
+   "output": 6205826,
    "cache_write": 0,
-   "cache_read": 1489671936,
-   "total": 1525255219,
-   "requests": 9866,
-   "sessions": 115,
+   "cache_read": 1489911552,
+   "total": 1525528046,
+   "requests": 9877,
+   "sessions": 117,
    "active_days": 14,
    "first_date": "2026-11-06",
    "last_date": "2026-11-23"
   },
   "agy": {
-   "input": 58763839,
-   "output": 4021478,
+   "input": 77473765,
+   "output": 4982118,
    "cache_write": 0,
-   "cache_read": 512783485,
-   "total": 575568802,
-   "requests": 2127,
-   "sessions": 39,
+   "cache_read": 645506374,
+   "total": 727962257,
+   "requests": 2674,
+   "sessions": 41,
    "active_days": 6,
    "first_date": "2026-11-17",
    "last_date": "2026-11-23"
@@ -52,13 +52,13 @@
   "claude-opus-5-5": 103508761506,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
-  "gpt-6.2-astra": 738921937,
-  "gemini-4-carbon": 495612029,
+  "gpt-6.2-astra": 739194764,
+  "gemini-4-carbon": 612500622,
   "gpt-6-astra": 488104690,
   "gpt-6.1-sol": 298228592,
   "claude-fable-5-2": 272409404,
+  "gemini-4-hydrogen": 87197680,
   "claude-sonnet-5-5": 57952173,
-  "gemini-4-hydrogen": 51692818,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
   "gemini-4-neon": 28151077,
@@ -515,32 +515,32 @@
   },
   {
    "date": "2026-11-22",
-   "input": 5594737,
-   "output": 11999862,
+   "input": 5591498,
+   "output": 11998519,
    "cache_write": 24576393,
-   "cache_read": 6300006847,
-   "requests": 12361,
+   "cache_read": 6299793822,
+   "requests": 12360,
    "sessions": 23,
-   "total": 6342177839,
+   "total": 6341960232,
    "by_source": {
     "claude": 6272568229,
     "codex": 29436595,
-    "agy": 40173015
+    "agy": 39955408
    }
   },
   {
    "date": "2026-11-23",
-   "input": 30135368,
-   "output": 5531627,
+   "input": 48879152,
+   "output": 6496202,
    "cache_write": 5650109,
-   "cache_read": 2078055888,
-   "requests": 4686,
-   "sessions": 27,
-   "total": 2119372992,
+   "cache_read": 2211231418,
+   "requests": 5245,
+   "sessions": 31,
+   "total": 2272256881,
    "by_source": {
     "claude": 1785757930,
-    "codex": 4454400,
-    "agy": 329160662
+    "codex": 4727227,
+    "agy": 481771724
    }
   }
  ]
