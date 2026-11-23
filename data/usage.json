@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-23T18:52+08:00",
+ "generated_at": "2026-11-23T19:50+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 173617804,
-  "output": 471904610,
-  "cache_write": 2799194379,
-  "cache_read": 139460108958,
-  "total": 142904825751,
-  "requests": 417643,
-  "sessions": 2651
+  "input": 181504801,
+  "output": 472733222,
+  "cache_write": 2802489055,
+  "cache_read": 139553180838,
+  "total": 143009907916,
+  "requests": 417995,
+  "sessions": 2652
  },
  "sources": {
   "claude": {
-   "input": 37047357,
-   "output": 459277899,
-   "cache_write": 2799194379,
-   "cache_read": 137047019208,
-   "total": 140342538843,
-   "requests": 403767,
-   "sessions": 2487,
+   "input": 37047757,
+   "output": 459707252,
+   "cache_write": 2802489055,
+   "cache_read": 137087625230,
+   "total": 140386869294,
+   "requests": 403953,
+   "sessions": 2488,
    "active_days": 35,
    "first_date": "2026-10-20",
    "last_date": "2026-11-23"
@@ -36,12 +36,12 @@
    "last_date": "2026-11-23"
   },
   "agy": {
-   "input": 104420767,
-   "output": 6189023,
+   "input": 112307364,
+   "output": 6588282,
    "cache_write": 0,
-   "cache_read": 793321302,
-   "total": 903931092,
-   "requests": 3295,
+   "cache_read": 845787160,
+   "total": 964682806,
+   "requests": 3461,
    "sessions": 45,
    "active_days": 6,
    "first_date": "2026-11-17",
@@ -49,11 +49,11 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 103596394993,
+  "claude-opus-5-5": 103640725444,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
   "gpt-6.2-astra": 861693443,
-  "gemini-4-carbon": 751226411,
+  "gemini-4-carbon": 803387590,
   "gpt-6-astra": 498433781,
   "gpt-6.1-sol": 298228592,
   "claude-fable-5-2": 272409404,
@@ -61,7 +61,7 @@
   "claude-sonnet-5-5": 57952173,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
-  "claude-sonnet-5-5-high": 28275700,
+  "claude-sonnet-5-5-high": 36866235,
   "gemini-4-neon": 28151077,
   "anthropic/claude-opus-5.5": 6170402,
   "claude-opus-4-8": 922334,
@@ -531,17 +531,17 @@
   },
   {
    "date": "2026-11-23",
-   "input": 78565968,
-   "output": 8213421,
-   "cache_write": 17188166,
-   "cache_read": 2564719418,
-   "requests": 6935,
-   "sessions": 39,
-   "total": 2668686973,
+   "input": 86452965,
+   "output": 9042033,
+   "cache_write": 20482842,
+   "cache_read": 2657791298,
+   "requests": 7287,
+   "sessions": 40,
+   "total": 2773769138,
    "by_source": {
-    "claude": 1873391417,
+    "claude": 1917721868,
     "codex": 137554997,
-    "agy": 657740559
+    "agy": 718492273
    }
   }
  ]
