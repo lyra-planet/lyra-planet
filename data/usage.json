@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-23T17:51+08:00",
+ "generated_at": "2026-11-23T18:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 169089812,
-  "output": 471515430,
-  "cache_write": 2794639855,
-  "cache_read": 139385341808,
-  "total": 142820586905,
-  "requests": 417391,
+  "input": 173617804,
+  "output": 471904610,
+  "cache_write": 2799194379,
+  "cache_read": 139460108958,
+  "total": 142904825751,
+  "requests": 417643,
   "sessions": 2651
  },
  "sources": {
   "claude": {
-   "input": 37047139,
-   "output": 459148145,
-   "cache_write": 2794639855,
-   "cache_read": 137014072518,
-   "total": 140304907657,
-   "requests": 403666,
+   "input": 37047357,
+   "output": 459277899,
+   "cache_write": 2799194379,
+   "cache_read": 137047019208,
+   "total": 140342538843,
+   "requests": 403767,
    "sessions": 2487,
    "active_days": 35,
    "first_date": "2026-10-20",
@@ -36,12 +36,12 @@
    "last_date": "2026-11-23"
   },
   "agy": {
-   "input": 99892993,
-   "output": 5929597,
+   "input": 104420767,
+   "output": 6189023,
    "cache_write": 0,
-   "cache_read": 751500842,
-   "total": 857323432,
-   "requests": 3144,
+   "cache_read": 793321302,
+   "total": 903931092,
+   "requests": 3295,
    "sessions": 45,
    "active_days": 6,
    "first_date": "2026-11-17",
@@ -49,11 +49,11 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 103558763807,
+  "claude-opus-5-5": 103596394993,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
   "gpt-6.2-astra": 861693443,
-  "gemini-4-carbon": 716668934,
+  "gemini-4-carbon": 751226411,
   "gpt-6-astra": 498433781,
   "gpt-6.1-sol": 298228592,
   "claude-fable-5-2": 272409404,
@@ -61,8 +61,8 @@
   "claude-sonnet-5-5": 57952173,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
+  "claude-sonnet-5-5-high": 28275700,
   "gemini-4-neon": 28151077,
-  "claude-sonnet-5-5-high": 16225517,
   "anthropic/claude-opus-5.5": 6170402,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
@@ -531,17 +531,17 @@
   },
   {
    "date": "2026-11-23",
-   "input": 74037976,
-   "output": 7824241,
-   "cache_write": 12633642,
-   "cache_read": 2489952268,
-   "requests": 6683,
+   "input": 78565968,
+   "output": 8213421,
+   "cache_write": 17188166,
+   "cache_read": 2564719418,
+   "requests": 6935,
    "sessions": 39,
-   "total": 2584448127,
+   "total": 2668686973,
    "by_source": {
-    "claude": 1835760231,
+    "claude": 1873391417,
     "codex": 137554997,
-    "agy": 611132899
+    "agy": 657740559
    }
   }
  ]
