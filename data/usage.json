@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-23T14:50+08:00",
+ "generated_at": "2026-11-23T15:50+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 143930988,
-  "output": 470187391,
+  "input": 144703095,
+  "output": 470308221,
   "cache_write": 2787656322,
-  "cache_read": 139106620958,
-  "total": 142508395659,
-  "requests": 415953,
-  "sessions": 2643
+  "cache_read": 139170511134,
+  "total": 142573178772,
+  "requests": 416281,
+  "sessions": 2645
  },
  "sources": {
   "claude": {
@@ -24,24 +24,24 @@
    "last_date": "2026-11-23"
   },
   "codex": {
-   "input": 29410668,
-   "output": 6205826,
+   "input": 29900842,
+   "output": 6308521,
    "cache_write": 0,
-   "cache_read": 1489911552,
-   "total": 1525528046,
-   "requests": 9877,
-   "sessions": 117,
+   "cache_read": 1553801728,
+   "total": 1590011091,
+   "requests": 10204,
+   "sessions": 119,
    "active_days": 14,
    "first_date": "2026-11-06",
    "last_date": "2026-11-23"
   },
   "agy": {
-   "input": 77473765,
-   "output": 4982118,
+   "input": 77755698,
+   "output": 5000253,
    "cache_write": 0,
    "cache_read": 645506374,
-   "total": 727962257,
-   "requests": 2674,
+   "total": 728262325,
+   "requests": 2675,
    "sessions": 41,
    "active_days": 6,
    "first_date": "2026-11-17",
@@ -52,8 +52,8 @@
   "claude-opus-5-5": 103508761506,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
-  "gpt-6.2-astra": 739194764,
-  "gemini-4-carbon": 612500622,
+  "gpt-6.2-astra": 803677809,
+  "gemini-4-carbon": 612800690,
   "gpt-6-astra": 488104690,
   "gpt-6.1-sol": 298228592,
   "claude-fable-5-2": 272409404,
@@ -530,17 +530,17 @@
   },
   {
    "date": "2026-11-23",
-   "input": 48879152,
-   "output": 6496202,
+   "input": 49651259,
+   "output": 6617032,
    "cache_write": 5650109,
-   "cache_read": 2211231418,
-   "requests": 5245,
-   "sessions": 31,
-   "total": 2272256881,
+   "cache_read": 2275121594,
+   "requests": 5573,
+   "sessions": 33,
+   "total": 2337039994,
    "by_source": {
     "claude": 1785757930,
-    "codex": 4727227,
-    "agy": 481771724
+    "codex": 69210272,
+    "agy": 482071792
    }
   }
  ]
