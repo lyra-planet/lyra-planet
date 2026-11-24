@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-24T18:55+08:00",
+ "generated_at": "2026-11-24T19:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 405966585,
-  "output": 515960854,
-  "cache_write": 3155878734,
-  "cache_read": 143448931148,
-  "total": 147526737321,
-  "requests": 435303,
-  "sessions": 2697
+  "input": 452496050,
+  "output": 518209794,
+  "cache_write": 3187963938,
+  "cache_read": 144076050441,
+  "total": 148234720223,
+  "requests": 437265,
+  "sessions": 2702
  },
  "sources": {
   "claude": {
-   "input": 224466154,
-   "output": 501362034,
-   "cache_write": 3155878734,
-   "cache_read": 140743280984,
-   "total": 144624987906,
-   "requests": 420315,
-   "sessions": 2522,
+   "input": 270995619,
+   "output": 503610974,
+   "cache_write": 3187963938,
+   "cache_read": 141370400277,
+   "total": 145332970808,
+   "requests": 422277,
+   "sessions": 2527,
    "active_days": 36,
    "first_date": "2026-10-20",
    "last_date": "2026-11-24"
@@ -49,15 +49,15 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 107514226213,
+  "claude-opus-5-5": 108171746602,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
   "gpt-6-astra": 499394272,
-  "anthropic/claude-opus-5.5": 370788245,
+  "anthropic/claude-opus-5.5": 421002326,
   "gpt-6.1-sol": 298228592,
-  "claude-fable-5-2": 272409404,
+  "claude-fable-5-2": 272657836,
   "gemini-4-hydrogen": 137432393,
   "claude-sonnet-5-5": 57952173,
   "claude-sonnet-5-5-high": 48663438,
@@ -546,15 +546,15 @@
   },
   {
    "date": "2026-11-24",
-   "input": 200952798,
-   "output": 41916794,
-   "cache_write": 344157277,
-   "cache_read": 3689454371,
-   "requests": 16517,
-   "sessions": 40,
-   "total": 4276481240,
+   "input": 247482263,
+   "output": 44165734,
+   "cache_write": 376242481,
+   "cache_read": 4316573664,
+   "requests": 18479,
+   "sessions": 45,
+   "total": 4984464142,
    "by_source": {
-    "claude": 4169603576,
+    "claude": 4877586478,
     "agy": 106877664
    }
   }
