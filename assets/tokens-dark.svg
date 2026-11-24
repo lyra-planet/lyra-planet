@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Coding agent token usage</title>
-<desc id="d">149B tokens across Claude Code, Codex and Antigravity since 2026-10-20; daily table and JSON are in the repository.</desc>
+<desc id="d">150B tokens across Claude Code, Codex and Antigravity since 2026-10-20; daily table and JSON are in the repository.</desc>
 <style>.a{animation:up .6s cubic-bezier(.2,.7,.2,1) both}.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}.h{animation:fade .4s ease-out both}.m{transform-box:fill-box;transform-origin:0 50%;animation:sweep .9s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="0.5" y="0.5" width="879" height="519" rx="12" fill="#262624" stroke="#3d3d3a"/>
 <text x="28.0" y="46.0" font-size="22" font-weight="600" fill="#faf9f5" text-anchor="start" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">Coding agent usage</text>
-<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 24, 21:52 (UTC+8)</text>
-<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">149B</text>
+<text x="852.0" y="44.0" font-size="12" font-weight="400" fill="#9c9a92" text-anchor="end">since Oct 20, 2026 · updated Nov 24, 22:52 (UTC+8)</text>
+<text x="28.0" y="114.0" font-size="58" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif">150B</text>
 <text x="28.0" y="136.0" font-size="13" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:80ms">tokens processed</text>
 <line x1="220.0" y1="78" x2="220.0" y2="136" stroke="#34332f"/>
-<text x="234.0" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">524M</text>
+<text x="234.0" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:120ms">525M</text>
 <text x="234.0" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:160ms">output tokens</text>
 <line x1="346.4" y1="78" x2="346.4" y2="136" stroke="#34332f"/>
-<text x="360.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">440.7k</text>
+<text x="360.4" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:190ms">441.4k</text>
 <text x="360.4" y="136.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start" class="a" style="animation-delay:230ms">API calls</text>
 <line x1="472.8" y1="78" x2="472.8" y2="136" stroke="#34332f"/>
 <text x="486.8" y="112.0" font-size="27" font-weight="500" fill="#faf9f5" text-anchor="start" class="a" font-family="'Tiempos Headline', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" style="animation-delay:260ms">2,705</text>
@@ -59,7 +59,7 @@
 <path class="g" style="animation-delay:922ms" d="M457.8,370.0 V271.8 Q457.8,267.8 461.8,267.8 H466.6 Q470.6,267.8 470.6,271.8 V370.0 Z"/>
 <path class="g" style="animation-delay:944ms" d="M472.6,370.0 V266.2 Q472.6,262.2 476.6,262.2 H481.4 Q485.4,262.2 485.4,266.2 V370.0 Z"/>
 <path class="g" style="animation-delay:966ms" d="M487.4,370.0 V322.8 Q487.4,318.8 491.4,318.8 H496.2 Q500.2,318.8 500.2,322.8 V370.0 Z"/>
-<path class="g" style="animation-delay:988ms" d="M502.2,370.0 V268.3 Q502.2,264.3 506.2,264.3 H511.0 Q515.0,264.3 515.0,268.3 V370.0 Z"/>
+<path class="g" style="animation-delay:988ms" d="M502.2,370.0 V264.6 Q502.2,260.6 506.2,260.6 H511.0 Q515.0,260.6 515.0,264.6 V370.0 Z"/>
 </g>
 <text x="419.8" y="224.4" font-size="11" font-weight="600" fill="#faf9f5" text-anchor="middle" class="a" style="animation-delay:1100ms">8.21B</text>
 <text x="79.4" y="386.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="middle">Oct 26</text>
@@ -262,14 +262,14 @@
 <text x="668.0" y="316.0" font-size="10" font-weight="400" fill="#9c9a92" text-anchor="start">More</text>
 <text x="28.0" y="428.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="start" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" letter-spacing="1">BY MODEL</text>
 <text x="852.0" y="428.0" font-size="11" font-weight="400" fill="#c2c0b6" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">Claude Code 147B · Codex 1.66B · Antigravity 1.24B</text>
-<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="603.1" height="14" rx="4" fill="#cf6844"/>
-<rect class="m" style="animation-delay:1020ms" x="633.1" y="440" width="189.6" height="14" rx="4" fill="#3987e5"/>
-<rect class="m" style="animation-delay:1140ms" x="824.7" y="440" width="25.3" height="14" rx="4" fill="#6b6a65"/>
+<rect class="m" style="animation-delay:900ms" x="28.0" y="440" width="603.0" height="14" rx="4" fill="#cf6844"/>
+<rect class="m" style="animation-delay:1020ms" x="633.0" y="440" width="189.4" height="14" rx="4" fill="#3987e5"/>
+<rect class="m" style="animation-delay:1140ms" x="824.3" y="440" width="25.7" height="14" rx="4" fill="#6b6a65"/>
 <rect x="28.0" y="466" width="10" height="10" rx="2" fill="#cf6844"/>
 <text x="44.0" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Opus 5.5  73.4%</text>
 <rect x="176.0" y="466" width="10" height="10" rx="2" fill="#3987e5"/>
-<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Opus 5  23.3%</text>
+<text x="192.0" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Opus 5  23.2%</text>
 <rect x="309.6" y="466" width="10" height="10" rx="2" fill="#6b6a65"/>
-<text x="325.6" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Other (Fable 5.1, Gemini 4 Carbon, GPT-6.2 Astra, +9)  3.3%</text>
+<text x="325.6" y="475.0" font-size="12" font-weight="400" fill="#c2c0b6" text-anchor="start">Other (Fable 5.1, Gemini 4 Carbon, GPT-6.2 Astra, +9)  3.4%</text>
 <text x="28.0" y="502.0" font-size="11" font-weight="400" fill="#9c9a92" text-anchor="start">Counted from local Claude Code, Codex &amp; Antigravity logs · deduplicated per API response · daily totals only, no content</text>
 </svg>
