@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-25T02:52+08:00",
+ "generated_at": "2026-11-25T03:53+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 460646207,
-  "output": 526636292,
-  "cache_write": 3244125113,
-  "cache_read": 145952465684,
-  "total": 150183873296,
-  "requests": 442657,
+  "input": 460646461,
+  "output": 526763351,
+  "cache_write": 3245252472,
+  "cache_read": 146029657977,
+  "total": 150262320261,
+  "requests": 442784,
   "sessions": 2716
  },
  "sources": {
   "claude": {
-   "input": 279145776,
-   "output": 512037472,
-   "cache_write": 3244125113,
-   "cache_read": 143246815520,
-   "total": 147282123881,
-   "requests": 427669,
+   "input": 279146030,
+   "output": 512164531,
+   "cache_write": 3245252472,
+   "cache_read": 143324007813,
+   "total": 147360570846,
+   "requests": 427796,
    "sessions": 2541,
    "active_days": 37,
    "first_date": "2026-10-20",
@@ -49,7 +49,7 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 109891356632,
+  "claude-opus-5-5": 109969803597,
   "claude-opus-5": 34761211688,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
@@ -560,15 +560,15 @@
   },
   {
    "date": "2026-11-25",
-   "input": 2028,
-   "output": 1239606,
-   "cache_write": 7283023,
-   "cache_read": 371115585,
-   "requests": 1008,
+   "input": 2282,
+   "output": 1366665,
+   "cache_write": 8410382,
+   "cache_read": 448307878,
+   "requests": 1135,
    "sessions": 11,
-   "total": 379640242,
+   "total": 458087207,
    "by_source": {
-    "claude": 379640242
+    "claude": 458087207
    }
   }
  ]
