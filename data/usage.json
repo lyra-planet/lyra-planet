@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-24T14:57+08:00",
+ "generated_at": "2026-11-24T15:59+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 239382574,
-  "output": 505398563,
-  "cache_write": 2971671788,
-  "cache_read": 141385287911,
-  "total": 145101740836,
-  "requests": 429703,
-  "sessions": 2685
+  "input": 270003697,
+  "output": 508865486,
+  "cache_write": 3018964582,
+  "cache_read": 141998733630,
+  "total": 145796567395,
+  "requests": 431348,
+  "sessions": 2694
  },
  "sources": {
   "claude": {
-   "input": 57882143,
-   "output": 490799743,
-   "cache_write": 2971671788,
-   "cache_read": 138679637747,
-   "total": 142199991421,
-   "requests": 414715,
-   "sessions": 2510,
+   "input": 88503266,
+   "output": 494266666,
+   "cache_write": 3018964582,
+   "cache_read": 139293083466,
+   "total": 142894817980,
+   "requests": 416360,
+   "sessions": 2519,
    "active_days": 36,
    "first_date": "2026-10-20",
    "last_date": "2026-11-24"
@@ -49,7 +49,7 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 105427913445,
+  "claude-opus-5-5": 106049769342,
   "claude-opus-5": 34760099973,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
@@ -58,11 +58,11 @@
   "gpt-6.1-sol": 298228592,
   "claude-fable-5-2": 272409404,
   "gemini-4-hydrogen": 137432393,
+  "anthropic/claude-opus-5.5": 105075190,
   "claude-sonnet-5-5": 57952173,
   "claude-sonnet-5-5-high": 48663438,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
-  "anthropic/claude-opus-5.5": 32104528,
   "gemini-4-neon": 28151077,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
@@ -546,15 +546,15 @@
   },
   {
    "date": "2026-11-24",
-   "input": 34368787,
-   "output": 31354503,
-   "cache_write": 159950331,
-   "cache_read": 1625811134,
-   "requests": 10917,
-   "sessions": 28,
-   "total": 1851484755,
+   "input": 64989910,
+   "output": 34821426,
+   "cache_write": 207243125,
+   "cache_read": 2239256853,
+   "requests": 12562,
+   "sessions": 37,
+   "total": 2546311314,
    "by_source": {
-    "claude": 1744607091,
+    "claude": 2439433650,
     "agy": 106877664
    }
   }
