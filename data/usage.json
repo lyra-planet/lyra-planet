@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-25T23:51+08:00",
+ "generated_at": "2026-11-26T00:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 482718130,
-  "output": 580880992,
-  "cache_write": 3516593961,
-  "cache_read": 151096222296,
-  "total": 155676415379,
-  "requests": 463682,
-  "sessions": 2747
+  "input": 482722132,
+  "output": 585063431,
+  "cache_write": 3530732947,
+  "cache_read": 151374677669,
+  "total": 155973196179,
+  "requests": 464773,
+  "sessions": 2758
  },
  "sources": {
   "claude": {
-   "input": 300866769,
-   "output": 566230017,
-   "cache_write": 3516593961,
-   "cache_read": 148376248292,
-   "total": 152759939039,
-   "requests": 448528,
-   "sessions": 2568,
-   "active_days": 37,
+   "input": 300870771,
+   "output": 570412456,
+   "cache_write": 3530732947,
+   "cache_read": 148654703665,
+   "total": 153056719839,
+   "requests": 449619,
+   "sessions": 2579,
+   "active_days": 38,
    "first_date": "2026-10-20",
-   "last_date": "2026-11-25"
+   "last_date": "2026-11-26"
   },
   "codex": {
    "input": 32481687,
@@ -51,7 +51,7 @@
  "models": {
   "claude-opus-5-5": 111026198507,
   "claude-opus-5": 34761211688,
-  "claude-fable-5-2": 4808544198,
+  "claude-fable-5-2": 5105324998,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -562,17 +562,30 @@
   },
   {
    "date": "2026-11-25",
-   "input": 22073951,
-   "output": 55484306,
-   "cache_write": 279751871,
-   "cache_read": 5514872197,
-   "requests": 22033,
+   "input": 22074891,
+   "output": 55774969,
+   "cache_write": 280609373,
+   "cache_read": 5579596963,
+   "requests": 22288,
    "sessions": 42,
-   "total": 5872182325,
+   "total": 5938056196,
    "by_source": {
-    "claude": 5857455400,
+    "claude": 5923329271,
     "codex": 14700951,
     "agy": 25974
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "input": 3062,
+   "output": 3891776,
+   "cache_write": 13281484,
+   "cache_read": 213730607,
+   "requests": 836,
+   "sessions": 11,
+   "total": 230906929,
+   "by_source": {
+    "claude": 230906929
    }
   }
  ]
