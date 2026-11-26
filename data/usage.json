@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-11-26T18:52+08:00",
+ "generated_at": "2026-11-26T19:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 483160875,
-  "output": 690499760,
-  "cache_write": 4065204633,
-  "cache_read": 159336368614,
-  "total": 164575233882,
-  "requests": 498349,
-  "sessions": 2796
+  "input": 483282092,
+  "output": 699648127,
+  "cache_write": 4097756355,
+  "cache_read": 160128129807,
+  "total": 165408816381,
+  "requests": 501217,
+  "sessions": 2798
  },
  "sources": {
   "claude": {
-   "input": 300976903,
-   "output": 675828184,
-   "cache_write": 4065204633,
-   "cache_read": 156608149874,
-   "total": 161650159594,
-   "requests": 483143,
-   "sessions": 2616,
+   "input": 300985983,
+   "output": 684955952,
+   "cache_write": 4097756355,
+   "cache_read": 157393453595,
+   "total": 162477151885,
+   "requests": 485932,
+   "sessions": 2617,
    "active_days": 38,
    "first_date": "2026-10-20",
    "last_date": "2026-11-26"
   },
   "codex": {
-   "input": 32814298,
-   "output": 6513356,
+   "input": 32926435,
+   "output": 6533955,
    "cache_write": 0,
-   "cache_read": 1643287552,
-   "total": 1682615206,
-   "requests": 10807,
-   "sessions": 123,
+   "cache_read": 1649745024,
+   "total": 1689205414,
+   "requests": 10886,
+   "sessions": 124,
    "active_days": 16,
    "first_date": "2026-11-06",
    "last_date": "2026-11-26"
@@ -49,9 +49,9 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 111190769850,
+  "claude-opus-5-5": 111196289136,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 13475280943,
+  "claude-fable-5-2": 14296753948,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -63,8 +63,8 @@
   "claude-sonnet-5-5-high": 48663438,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
+  "gpt-6.2-sol": 29889107,
   "gemini-4-neon": 28151077,
-  "gpt-6.2-sol": 23298899,
   "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
@@ -577,16 +577,16 @@
   },
   {
    "date": "2026-11-26",
-   "input": 441805,
-   "output": 109328105,
-   "cache_write": 547753170,
-   "cache_read": 8175421552,
-   "requests": 34412,
-   "sessions": 50,
-   "total": 8832944632,
+   "input": 563022,
+   "output": 118476472,
+   "cache_write": 580304892,
+   "cache_read": 8967182745,
+   "requests": 37280,
+   "sessions": 52,
+   "total": 9666527131,
    "by_source": {
-    "claude": 8824346684,
-    "codex": 8597948
+    "claude": 9651338975,
+    "codex": 15188156
    }
   }
  ]
