@@ -41,18 +41,18 @@
 
 <!-- usage:start -->
 <details>
-<summary>Daily numbers (updated 2026-11-26 21:51, UTC+8)</summary>
+<summary>Daily numbers (updated 2026-11-26 22:51, UTC+8)</summary>
 
 | Agent | Total | Output | Cache read | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|
-| Claude Code | 164B | 704M | 159B | 492,055 | 2,619 |
+| Claude Code | 165B | 711M | 160B | 494,582 | 2,620 |
 | Codex | 1.69B | 6.54M | 1.65B | 10,898 | 124 |
 | Antigravity | 1.24B | 8.16M | 1.08B | 4,399 | 57 |
-| **Total** | **167B** | **719M** | **162B** | **507,352** | **2,800** |
+| **Total** | **168B** | **726M** | **162B** | **509,879** | **2,801** |
 
 | Date | Total | Claude | Codex | Agy | Output | API calls | Sessions |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| 2026-11-26 | 11.4B | 11.4B | 16.5M | — | 138M | 43,415 | 54 |
+| 2026-11-26 | 12.1B | 12.1B | 16.5M | — | 145M | 45,942 | 55 |
 | 2026-11-25 | 5.94B | 5.92B | 14.7M | 26.0k | 55.8M | 22,288 | 42 |
 | 2026-11-24 | 6.55B | 6.45B | — | 107M | 51.4M | 22,863 | 48 |
 | 2026-11-23 | 3.01B | 1.99B | 139M | 889M | 10.4M | 8,078 | 45 |
