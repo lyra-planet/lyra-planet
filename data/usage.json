@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-27T01:50+08:00",
+ "generated_at": "2026-11-27T02:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 483343632,
-  "output": 745779563,
-  "cache_write": 4252815566,
-  "cache_read": 164374813415,
-  "total": 169856752176,
-  "requests": 516340,
+  "input": 483349454,
+  "output": 751000235,
+  "cache_write": 4274485012,
+  "cache_read": 164757063670,
+  "total": 170265898371,
+  "requests": 518228,
   "sessions": 2822
  },
  "sources": {
   "claude": {
-   "input": 301040975,
-   "output": 731084039,
-   "cache_write": 4252815566,
-   "cache_read": 161638801139,
-   "total": 166923741719,
-   "requests": 501043,
+   "input": 301046797,
+   "output": 736304711,
+   "cache_write": 4274485012,
+   "cache_read": 162021051394,
+   "total": 167332887914,
+   "requests": 502931,
    "sessions": 2641,
    "active_days": 39,
    "first_date": "2026-10-20",
@@ -51,7 +51,7 @@
  "models": {
   "claude-opus-5-5": 111196289136,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 18741945008,
+  "claude-fable-5-2": 19151091203,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -591,15 +591,15 @@
   },
   {
    "date": "2026-11-27",
-   "input": 16316,
-   "output": 13827868,
-   "cache_write": 43845522,
-   "cache_read": 1311120474,
-   "requests": 4483,
+   "input": 22138,
+   "output": 19048540,
+   "cache_write": 65514968,
+   "cache_read": 1693370729,
+   "requests": 6371,
    "sessions": 21,
-   "total": 1368810180,
+   "total": 1777956375,
    "by_source": {
-    "claude": 1368810180
+    "claude": 1777956375
    }
   }
  ]
