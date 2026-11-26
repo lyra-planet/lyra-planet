@@ -1,35 +1,35 @@
 {
- "generated_at": "2026-11-26T19:51+08:00",
+ "generated_at": "2026-11-26T20:55+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 483282092,
-  "output": 699648127,
-  "cache_write": 4097756355,
-  "cache_read": 160128129807,
-  "total": 165408816381,
-  "requests": 501217,
-  "sessions": 2798
+  "input": 483300380,
+  "output": 711862793,
+  "cache_write": 4136416979,
+  "cache_read": 161022333439,
+  "total": 166353913591,
+  "requests": 504647,
+  "sessions": 2800
  },
  "sources": {
   "claude": {
-   "input": 300985983,
-   "output": 684955952,
-   "cache_write": 4097756355,
-   "cache_read": 157393453595,
-   "total": 162477151885,
-   "requests": 485932,
-   "sessions": 2617,
+   "input": 300997723,
+   "output": 697167269,
+   "cache_write": 4136416979,
+   "cache_read": 158286321163,
+   "total": 163420903134,
+   "requests": 489350,
+   "sessions": 2619,
    "active_days": 38,
    "first_date": "2026-10-20",
    "last_date": "2026-11-26"
   },
   "codex": {
-   "input": 32926435,
-   "output": 6533955,
+   "input": 32932983,
+   "output": 6537304,
    "cache_write": 0,
-   "cache_read": 1649745024,
-   "total": 1689205414,
-   "requests": 10886,
+   "cache_read": 1651081088,
+   "total": 1690551375,
+   "requests": 10898,
    "sessions": 124,
    "active_days": 16,
    "first_date": "2026-11-06",
@@ -51,7 +51,7 @@
  "models": {
   "claude-opus-5-5": 111196289136,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 14296753948,
+  "claude-fable-5-2": 15240505197,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -63,7 +63,7 @@
   "claude-sonnet-5-5-high": 48663438,
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
-  "gpt-6.2-sol": 29889107,
+  "gpt-6.2-sol": 31235068,
   "gemini-4-neon": 28151077,
   "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
@@ -577,16 +577,16 @@
   },
   {
    "date": "2026-11-26",
-   "input": 563022,
-   "output": 118476472,
-   "cache_write": 580304892,
-   "cache_read": 8967182745,
-   "requests": 37280,
-   "sessions": 52,
-   "total": 9666527131,
+   "input": 581310,
+   "output": 130691138,
+   "cache_write": 618965516,
+   "cache_read": 9861386377,
+   "requests": 40710,
+   "sessions": 54,
+   "total": 10611624341,
    "by_source": {
-    "claude": 9651338975,
-    "codex": 15188156
+    "claude": 10595090224,
+    "codex": 16534117
    }
   }
  ]
