@@ -1,39 +1,39 @@
 {
- "generated_at": "2026-11-26T13:51+08:00",
+ "generated_at": "2026-11-26T14:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 482784434,
-  "output": 647754121,
-  "cache_write": 3798205366,
-  "cache_read": 156008881830,
-  "total": 160937625751,
-  "requests": 484154,
-  "sessions": 2773
+  "input": 482943552,
+  "output": 651536603,
+  "cache_write": 3814804985,
+  "cache_read": 156296698291,
+  "total": 161245983431,
+  "requests": 485506,
+  "sessions": 2782
  },
  "sources": {
   "claude": {
-   "input": 300933073,
-   "output": 633103146,
-   "cache_write": 3798205366,
-   "cache_read": 153288907826,
-   "total": 158021149411,
-   "requests": 469000,
-   "sessions": 2594,
+   "input": 300937121,
+   "output": 636874183,
+   "cache_write": 3814804985,
+   "cache_read": 153571898047,
+   "total": 158324514336,
+   "requests": 470320,
+   "sessions": 2602,
    "active_days": 38,
    "first_date": "2026-10-20",
    "last_date": "2026-11-26"
   },
   "codex": {
-   "input": 32481687,
-   "output": 6492755,
+   "input": 32636757,
+   "output": 6504200,
    "cache_write": 0,
-   "cache_read": 1635042816,
-   "total": 1674017258,
-   "requests": 10755,
-   "sessions": 122,
-   "active_days": 15,
+   "cache_read": 1639869056,
+   "total": 1679010013,
+   "requests": 10787,
+   "sessions": 123,
+   "active_days": 16,
    "first_date": "2026-11-06",
-   "last_date": "2026-11-25"
+   "last_date": "2026-11-26"
   },
   "agy": {
    "input": 149369674,
@@ -51,7 +51,7 @@
  "models": {
   "claude-opus-5-5": 111170099859,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 9872148032,
+  "claude-fable-5-2": 10175512957,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -64,7 +64,7 @@
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
   "gemini-4-neon": 28151077,
-  "gpt-6.2-sol": 14700951,
+  "gpt-6.2-sol": 19693706,
   "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
@@ -577,15 +577,16 @@
   },
   {
    "date": "2026-11-26",
-   "input": 65364,
-   "output": 66582466,
-   "cache_write": 280753903,
-   "cache_read": 4847934768,
-   "requests": 20217,
-   "sessions": 26,
-   "total": 5195336501,
+   "input": 224482,
+   "output": 70364948,
+   "cache_write": 297353522,
+   "cache_read": 5135751229,
+   "requests": 21569,
+   "sessions": 35,
+   "total": 5503694181,
    "by_source": {
-    "claude": 5195336501
+    "claude": 5498701426,
+    "codex": 4992755
    }
   }
  ]
