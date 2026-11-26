@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-26T23:53+08:00",
+ "generated_at": "2026-11-27T00:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 483326084,
-  "output": 730617250,
-  "cache_write": 4204623258,
-  "cache_read": 162972055814,
-  "total": 168390622406,
-  "requests": 511511,
-  "sessions": 2801
+  "input": 483335850,
+  "output": 740100402,
+  "cache_write": 4226728077,
+  "cache_read": 163734435105,
+  "total": 169184599434,
+  "requests": 514156,
+  "sessions": 2817
  },
  "sources": {
   "claude": {
-   "input": 301023427,
-   "output": 715921726,
-   "cache_write": 4204623258,
-   "cache_read": 160236043538,
-   "total": 165457611949,
-   "requests": 496214,
-   "sessions": 2620,
-   "active_days": 38,
+   "input": 301033193,
+   "output": 725404878,
+   "cache_write": 4226728077,
+   "cache_read": 160998422829,
+   "total": 166251588977,
+   "requests": 498859,
+   "sessions": 2636,
+   "active_days": 39,
    "first_date": "2026-10-20",
-   "last_date": "2026-11-26"
+   "last_date": "2026-11-27"
   },
   "codex": {
    "input": 32932983,
@@ -51,7 +51,7 @@
  "models": {
   "claude-opus-5-5": 111196289136,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 17277214012,
+  "claude-fable-5-2": 18071191040,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -577,16 +577,29 @@
   },
   {
    "date": "2026-11-26",
-   "input": 607014,
-   "output": 149445595,
-   "cache_write": 687171795,
-   "cache_read": 11811108752,
-   "requests": 47574,
+   "input": 608246,
+   "output": 150780040,
+   "cache_write": 691518581,
+   "cache_read": 11902745879,
+   "requests": 47920,
    "sessions": 55,
-   "total": 12648333156,
+   "total": 12745652746,
    "by_source": {
-    "claude": 12631799039,
+    "claude": 12729118629,
     "codex": 16534117
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "input": 8534,
+   "output": 8148707,
+   "cache_write": 17758033,
+   "cache_read": 670742164,
+   "requests": 2299,
+   "sessions": 16,
+   "total": 696657438,
+   "by_source": {
+    "claude": 696657438
    }
   }
  ]
