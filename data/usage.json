@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-26T11:51+08:00",
+ "generated_at": "2026-11-26T12:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 482774810,
-  "output": 639058965,
-  "cache_write": 3734857910,
-  "cache_read": 155153501868,
-  "total": 160010193553,
-  "requests": 480435,
-  "sessions": 2769
+  "input": 482781448,
+  "output": 644161500,
+  "cache_write": 3771703485,
+  "cache_read": 155678921476,
+  "total": 160577567909,
+  "requests": 482972,
+  "sessions": 2773
  },
  "sources": {
   "claude": {
-   "input": 300923449,
-   "output": 624407990,
-   "cache_write": 3734857910,
-   "cache_read": 152433527864,
-   "total": 157093717213,
-   "requests": 465281,
-   "sessions": 2590,
+   "input": 300930087,
+   "output": 629510525,
+   "cache_write": 3771703485,
+   "cache_read": 152958947472,
+   "total": 157661091569,
+   "requests": 467818,
+   "sessions": 2594,
    "active_days": 38,
    "first_date": "2026-10-20",
    "last_date": "2026-11-26"
@@ -50,8 +50,8 @@
  },
  "models": {
   "claude-opus-5-5": 111170099859,
-  "claude-opus-5": 34811977214,
-  "claude-fable-5-2": 8947655494,
+  "claude-opus-5": 34813795432,
+  "claude-fable-5-2": 9512090190,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
@@ -65,7 +65,7 @@
   "anthropic/claude-fable-5.1": 43827324,
   "gemini-4-neon": 28151077,
   "gpt-6.2-sol": 14700951,
-  "anthropic/claude-opus-5": 984497,
+  "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
   "gemini-flash-worker-agy": 43550
@@ -577,15 +577,15 @@
   },
   {
    "date": "2026-11-26",
-   "input": 55740,
-   "output": 57887310,
-   "cache_write": 217406447,
-   "cache_read": 3992554806,
-   "requests": 16498,
-   "sessions": 22,
-   "total": 4267904303,
+   "input": 62378,
+   "output": 62989845,
+   "cache_write": 254252022,
+   "cache_read": 4517974414,
+   "requests": 19035,
+   "sessions": 26,
+   "total": 4835278659,
    "by_source": {
-    "claude": 4267904303
+    "claude": 4835278659
    }
   }
  ]
