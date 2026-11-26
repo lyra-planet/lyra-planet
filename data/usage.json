@@ -1,35 +1,35 @@
 {
- "generated_at": "2026-11-26T17:52+08:00",
+ "generated_at": "2026-11-26T18:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 482970716,
-  "output": 679615073,
-  "cache_write": 3998948794,
-  "cache_read": 158337130265,
-  "total": 163498664848,
-  "requests": 494396,
-  "sessions": 2792
+  "input": 483160875,
+  "output": 690499760,
+  "cache_write": 4065204633,
+  "cache_read": 159336368614,
+  "total": 164575233882,
+  "requests": 498349,
+  "sessions": 2796
  },
  "sources": {
   "claude": {
-   "input": 300964285,
-   "output": 664952653,
-   "cache_write": 3998948794,
-   "cache_read": 155612330021,
-   "total": 160577195753,
-   "requests": 479210,
-   "sessions": 2612,
+   "input": 300976903,
+   "output": 675828184,
+   "cache_write": 4065204633,
+   "cache_read": 156608149874,
+   "total": 161650159594,
+   "requests": 483143,
+   "sessions": 2616,
    "active_days": 38,
    "first_date": "2026-10-20",
    "last_date": "2026-11-26"
   },
   "codex": {
-   "input": 32636757,
-   "output": 6504200,
+   "input": 32814298,
+   "output": 6513356,
    "cache_write": 0,
-   "cache_read": 1639869056,
-   "total": 1679010013,
-   "requests": 10787,
+   "cache_read": 1643287552,
+   "total": 1682615206,
+   "requests": 10807,
    "sessions": 123,
    "active_days": 16,
    "first_date": "2026-11-06",
@@ -49,14 +49,14 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 111182737251,
+  "claude-opus-5-5": 111190769850,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 12414331059,
+  "claude-fable-5-2": 13475280943,
   "claude-fable-5-1": 1560676156,
   "gemini-4-carbon": 1028073322,
   "gpt-6.2-astra": 861693443,
   "gpt-6-astra": 499394272,
-  "anthropic/claude-opus-5.5": 456762001,
+  "anthropic/claude-opus-5.5": 460743359,
   "gpt-6.1-sol": 298228592,
   "gemini-4-hydrogen": 137458367,
   "claude-sonnet-5-5": 57952173,
@@ -64,7 +64,7 @@
   "claude-haiku-5-5": 44086084,
   "anthropic/claude-fable-5.1": 43827324,
   "gemini-4-neon": 28151077,
-  "gpt-6.2-sol": 19693706,
+  "gpt-6.2-sol": 23298899,
   "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
   "gemini-pro-orchestrator": 69328,
@@ -577,16 +577,16 @@
   },
   {
    "date": "2026-11-26",
-   "input": 251646,
-   "output": 98443418,
-   "cache_write": 481497331,
-   "cache_read": 7176183203,
-   "requests": 30459,
-   "sessions": 46,
-   "total": 7756375598,
+   "input": 441805,
+   "output": 109328105,
+   "cache_write": 547753170,
+   "cache_read": 8175421552,
+   "requests": 34412,
+   "sessions": 50,
+   "total": 8832944632,
    "by_source": {
-    "claude": 7751382843,
-    "codex": 4992755
+    "claude": 8824346684,
+    "codex": 8597948
    }
   }
  ]
