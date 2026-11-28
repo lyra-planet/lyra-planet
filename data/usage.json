@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-28T13:52+08:00",
+ "generated_at": "2026-11-28T14:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 514589384,
-  "output": 860292618,
-  "cache_write": 4856112586,
-  "cache_read": 177259642914,
-  "total": 183490637502,
-  "requests": 567358,
-  "sessions": 2879
+  "input": 518574259,
+  "output": 863101873,
+  "cache_write": 4866876697,
+  "cache_read": 177685960509,
+  "total": 183934513338,
+  "requests": 569173,
+  "sessions": 2881
  },
  "sources": {
   "claude": {
-   "input": 301179173,
-   "output": 841410277,
-   "cache_write": 4856112586,
-   "cache_read": 174129786117,
-   "total": 180128488153,
-   "requests": 550517,
-   "sessions": 2683,
+   "input": 301182443,
+   "output": 843132135,
+   "cache_write": 4866876697,
+   "cache_read": 174522096930,
+   "total": 180533288205,
+   "requests": 552152,
+   "sessions": 2685,
    "active_days": 40,
    "first_date": "2026-10-20",
    "last_date": "2026-11-28"
@@ -36,12 +36,12 @@
    "last_date": "2026-11-28"
   },
   "agy": {
-   "input": 180077116,
-   "output": 12328045,
+   "input": 184058721,
+   "output": 13415442,
    "cache_write": 0,
-   "cache_read": 1472735389,
-   "total": 1665140550,
-   "requests": 5879,
+   "cache_read": 1506742171,
+   "total": 1704216334,
+   "requests": 6059,
    "sessions": 69,
    "active_days": 10,
    "first_date": "2026-11-17",
@@ -49,11 +49,11 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 115376989205,
+  "claude-opus-5-5": 115781789257,
   "claude-opus-5": 34813795432,
   "claude-fable-5-2": 27765991373,
   "claude-fable-5-1": 1560676156,
-  "gemini-4-carbon": 1450754790,
+  "gemini-4-carbon": 1489830574,
   "gpt-6.2-astra": 861948430,
   "gpt-6-astra": 499394272,
   "anthropic/claude-opus-5.5": 462142133,
@@ -606,17 +606,17 @@
   },
   {
    "date": "2026-11-28",
-   "input": 2911934,
-   "output": 23419083,
-   "cache_write": 114425847,
-   "cache_read": 3891596792,
-   "requests": 17057,
-   "sessions": 20,
-   "total": 4032353656,
+   "input": 6896809,
+   "output": 26228338,
+   "cache_write": 125189958,
+   "cache_read": 4317914387,
+   "requests": 18872,
+   "sessions": 22,
+   "total": 4476229492,
    "by_source": {
-    "claude": 3987898431,
+    "claude": 4392698483,
     "codex": 2072804,
-    "agy": 42382421
+    "agy": 81458205
    }
   }
  ]
