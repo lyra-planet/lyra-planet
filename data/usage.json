@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-28T18:52+08:00",
+ "generated_at": "2026-11-28T19:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 532201857,
-  "output": 870758585,
-  "cache_write": 4927413683,
-  "cache_read": 179324603809,
-  "total": 185654977934,
-  "requests": 575907,
-  "sessions": 2890
+  "input": 535895392,
+  "output": 872881895,
+  "cache_write": 4948463158,
+  "cache_read": 179605064780,
+  "total": 185962305225,
+  "requests": 577377,
+  "sessions": 2896
  },
  "sources": {
   "claude": {
-   "input": 301195077,
-   "output": 849773329,
-   "cache_write": 4927413683,
-   "cache_read": 176014522741,
-   "total": 182092904830,
-   "requests": 558453,
-   "sessions": 2694,
+   "input": 301561199,
+   "output": 851509082,
+   "cache_write": 4948463158,
+   "cache_read": 176240373005,
+   "total": 182341906444,
+   "requests": 559740,
+   "sessions": 2700,
    "active_days": 40,
    "first_date": "2026-10-20",
    "last_date": "2026-11-28"
@@ -36,12 +36,12 @@
    "last_date": "2026-11-28"
   },
   "agy": {
-   "input": 197673685,
-   "output": 14430960,
+   "input": 201001098,
+   "output": 14818517,
    "cache_write": 0,
-   "cache_read": 1652959660,
-   "total": 1865064305,
-   "requests": 6492,
+   "cache_read": 1707570367,
+   "total": 1923389982,
+   "requests": 6675,
    "sessions": 69,
    "active_days": 10,
    "first_date": "2026-11-17",
@@ -49,16 +49,16 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 117277489549,
+  "claude-opus-5-5": 117510997789,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 27829907706,
-  "gemini-4-carbon": 1615380431,
+  "claude-fable-5-2": 27845401080,
+  "gemini-4-carbon": 1661513491,
   "claude-fable-5-1": 1560676156,
   "gpt-6.2-astra": 861948430,
   "gpt-6-astra": 499394272,
   "anthropic/claude-opus-5.5": 462142133,
   "gpt-6.1-sol": 298228592,
-  "gemini-4-hydrogen": 172756481,
+  "gemini-4-hydrogen": 184605723,
   "claude-sonnet-5-5": 57952173,
   "claude-sonnet-5-5-high": 48663438,
   "claude-haiku-5-5": 44086084,
@@ -67,6 +67,7 @@
   "gemini-4-neon": 28151077,
   "anthropic/claude-opus-5": 2105939,
   "claude-opus-4-8": 922334,
+  "gemini-4-hydrogen-tiered-high": 343375,
   "gemini-pro-orchestrator": 69328,
   "gemini-flash-worker-agy": 43550
  },
@@ -195,7 +196,7 @@
    "cache_write": 91323228,
    "cache_read": 3693346675,
    "requests": 11001,
-   "sessions": 34,
+   "sessions": 35,
    "total": 3798139411,
    "by_source": {
     "claude": 3798139411
@@ -606,17 +607,17 @@
   },
   {
    "date": "2026-11-28",
-   "input": 20524407,
-   "output": 33885050,
-   "cache_write": 185726944,
-   "cache_read": 5956557687,
-   "requests": 25606,
-   "sessions": 32,
-   "total": 6196694088,
+   "input": 24217942,
+   "output": 36008360,
+   "cache_write": 206776419,
+   "cache_read": 6237018658,
+   "requests": 27076,
+   "sessions": 37,
+   "total": 6504021379,
    "by_source": {
-    "claude": 5952315108,
+    "claude": 6201316722,
     "codex": 2072804,
-    "agy": 242306176
+    "agy": 300631853
    }
   }
  ]
