@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-28T20:51+08:00",
+ "generated_at": "2026-11-28T21:51+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 539206085,
-  "output": 873277625,
-  "cache_write": 4948837202,
-  "cache_read": 179681358993,
-  "total": 186042679905,
-  "requests": 577552,
+  "input": 541516072,
+  "output": 873710552,
+  "cache_write": 4949834508,
+  "cache_read": 179779247390,
+  "total": 186144308522,
+  "requests": 577751,
   "sessions": 2896
  },
  "sources": {
   "claude": {
-   "input": 301561253,
-   "output": 851539148,
-   "cache_write": 4948837202,
-   "cache_read": 176258673709,
-   "total": 182360611312,
-   "requests": 559767,
+   "input": 301561415,
+   "output": 851664336,
+   "cache_write": 4949834508,
+   "cache_read": 176296095455,
+   "total": 182399155714,
+   "requests": 559847,
    "sessions": 2700,
    "active_days": 40,
    "first_date": "2026-10-20",
@@ -36,12 +36,12 @@
    "last_date": "2026-11-28"
   },
   "agy": {
-   "input": 204311737,
-   "output": 15184181,
+   "input": 206621562,
+   "output": 15491920,
    "cache_write": 0,
-   "cache_read": 1765563876,
-   "total": 1985059794,
-   "requests": 6823,
+   "cache_read": 1826030527,
+   "total": 2048144009,
+   "requests": 6942,
    "sessions": 69,
    "active_days": 10,
    "first_date": "2026-11-17",
@@ -49,10 +49,10 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 117526425492,
+  "claude-opus-5-5": 117546304330,
   "claude-opus-5": 34813795432,
-  "claude-fable-5-2": 27848678245,
-  "gemini-4-carbon": 1715583021,
+  "claude-fable-5-2": 27867343809,
+  "gemini-4-carbon": 1778667236,
   "claude-fable-5-1": 1560676156,
   "gpt-6.2-astra": 861948430,
   "gpt-6-astra": 499394272,
@@ -607,17 +607,17 @@
   },
   {
    "date": "2026-11-28",
-   "input": 27531753,
-   "output": 36405940,
-   "cache_write": 207150463,
-   "cache_read": 6313536720,
-   "requests": 27252,
+   "input": 29841740,
+   "output": 36838867,
+   "cache_write": 208147769,
+   "cache_read": 6411425117,
+   "requests": 27451,
    "sessions": 37,
-   "total": 6584624876,
+   "total": 6686253493,
    "by_source": {
-    "claude": 6220021590,
+    "claude": 6258565992,
     "codex": 2072804,
-    "agy": 362530482
+    "agy": 425614697
    }
   }
  ]
