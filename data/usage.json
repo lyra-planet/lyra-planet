@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-28T15:51+08:00",
+ "generated_at": "2026-11-28T16:52+08:00",
  "tz": "Asia/Shanghai",
  "totals": {
-  "input": 520747412,
-  "output": 864405470,
-  "cache_write": 4879234019,
-  "cache_read": 178029390186,
-  "total": 184293777087,
-  "requests": 570685,
-  "sessions": 2882
+  "input": 522579712,
+  "output": 866335578,
+  "cache_write": 4892720583,
+  "cache_read": 178422672803,
+  "total": 184704308676,
+  "requests": 572367,
+  "sessions": 2885
  },
  "sources": {
   "claude": {
-   "input": 301185329,
-   "output": 844249575,
-   "cache_write": 4879234019,
-   "cache_read": 174847681506,
-   "total": 180872350429,
-   "requests": 553594,
-   "sessions": 2686,
+   "input": 301188557,
+   "output": 846006127,
+   "cache_write": 4892720583,
+   "cache_read": 175222115240,
+   "total": 181262030507,
+   "requests": 555204,
+   "sessions": 2689,
    "active_days": 40,
    "first_date": "2026-10-20",
    "last_date": "2026-11-28"
@@ -36,12 +36,12 @@
    "last_date": "2026-11-28"
   },
   "agy": {
-   "input": 186228988,
-   "output": 13601599,
+   "input": 188058060,
+   "output": 13775155,
    "cache_write": 0,
-   "cache_read": 1524587272,
-   "total": 1724417859,
-   "requests": 6129,
+   "cache_read": 1543436155,
+   "total": 1745269370,
+   "requests": 6201,
    "sessions": 69,
    "active_days": 10,
    "first_date": "2026-11-17",
@@ -49,16 +49,16 @@
   }
  },
  "models": {
-  "claude-opus-5-5": 116120851481,
+  "claude-opus-5-5": 116510531559,
   "claude-opus-5": 34813795432,
   "claude-fable-5-2": 27765991373,
   "claude-fable-5-1": 1560676156,
-  "gemini-4-carbon": 1501038931,
+  "gemini-4-carbon": 1512085120,
   "gpt-6.2-astra": 861948430,
   "gpt-6-astra": 499394272,
   "anthropic/claude-opus-5.5": 462142133,
   "gpt-6.1-sol": 298228592,
-  "gemini-4-hydrogen": 146451535,
+  "gemini-4-hydrogen": 156256857,
   "claude-sonnet-5-5": 57952173,
   "claude-sonnet-5-5-high": 48663438,
   "claude-haiku-5-5": 44086084,
@@ -606,17 +606,17 @@
   },
   {
    "date": "2026-11-28",
-   "input": 9069962,
-   "output": 27531935,
-   "cache_write": 137547280,
-   "cache_read": 4661344064,
-   "requests": 20384,
-   "sessions": 23,
-   "total": 4835493241,
+   "input": 10902262,
+   "output": 29462043,
+   "cache_write": 151033844,
+   "cache_read": 5054626681,
+   "requests": 22066,
+   "sessions": 26,
+   "total": 5246024830,
    "by_source": {
-    "claude": 4731760707,
+    "claude": 5121440785,
     "codex": 2072804,
-    "agy": 101659730
+    "agy": 122511241
    }
   }
  ]
